@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Computer Engineer
 -----------------------------
 
-I specialize mostly in web development and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino. Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application. Currently pursuing a Masters in Electrical and Computer Engineering at Carnegie Mellon University.
+I specialize mostly in web development and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
+<br/>
+Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
+<br/>
+ Currently pursuing a Masters in Electrical and Computer Engineering at Carnegie Mellon University.
 
 * 🚀  I'm currently working on [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
 * 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices
