@@ -8,9 +8,9 @@ I specialize mostly in web development machine learning and Internet of Things (
 <br/>
 Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
- Currently pursuing a Masters in Electrical and Computer Engineering at Carnegie Mellon University.
+Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 
-* 🚀  I'm currently working on [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
+* 🚀  I'm currently working on [Countdown application with themes and dark mode](http://rcountdown.netlify.app/) and following the course [fastai](https://course.fast.ai/) for deep learning
 * 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices
 * 🤝  I'm open to collaborating on interesting projects
 
