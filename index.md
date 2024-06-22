@@ -1,4 +1,4 @@
-# Welcome to My GitHub Pages Site
+# Welcome to Richard Djarbeng's personal website
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Richard Djarbeng
 ========================================================================================================================================
