@@ -22,17 +22,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: '3.1'
-          bundler-cache: true
-      - name: Build site
-        run: |
-          bundle install
-          bundle exec jekyll build --safe
-        env:
-          JEKYLL_ENV: production
+          source: ./
+          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
