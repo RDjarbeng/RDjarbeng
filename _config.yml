@@ -1,0 +1,9 @@
+name: rdjarbeng
+title: Richard Djarbeng's personal website
+description: Hello  I am Richard Djarbeng
+theme: jekyll-theme-minimal
+
+permalink: /posts/:title/
+
+exclude:
+  - README.md
