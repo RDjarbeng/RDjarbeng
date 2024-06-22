@@ -19,3 +19,7 @@ kramdown:
 future: true
 jailed: false
 gfm_quirks: paragraph_end
+
+# Debug options
+verbose: true
+safe: false
