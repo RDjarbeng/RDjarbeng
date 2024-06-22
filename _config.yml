@@ -7,3 +7,6 @@ permalink: /posts/:title/
 
 exclude:
   - README.md
+
+plugins:
+  - jekyll-relative-links
