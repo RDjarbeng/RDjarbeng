@@ -18,3 +18,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/
