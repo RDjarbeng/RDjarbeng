@@ -1,0 +1,21 @@
+name: Richard Djarbeng
+title: Richard Djarbeng's Personal Website
+description: Developer | Computer Engineer
+theme: jekyll-theme-minimal
+
+permalink: /posts/:title/
+
+exclude:
+  - README.md
+
+plugins:
+  - jekyll-relative-links
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+future: true
+jailed: false
+gfm_quirks: paragraph_end
