@@ -1,3 +1,16 @@
+## Posts
+
+<ul>
+{% raw %}{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}{% endraw %}
+</ul>
+
 # Welcome to Richard Djarbeng's personal website
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Richard Djarbeng
@@ -32,15 +45,3 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 <p align="left"> <a href="https://www.github.com/RDjarbeng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-## Posts
-
-<ul>
-{% raw %}{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-{% for post in sorted_posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <br>
-    <small>{{ post.date | date: "%B %d, %Y" }}</small>
-  </li>
-{% endfor %}{% endraw %}
-</ul>
