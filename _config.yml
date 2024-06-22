@@ -3,10 +3,7 @@ title: Richard Djarbeng's Personal Website
 description: Developer | Computer Engineer
 theme: jekyll-theme-minimal
 
-permalink: /posts/:title/
-
-exclude:
-  - README.md
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 plugins:
   - jekyll-relative-links
@@ -14,12 +11,10 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
 
 future: true
-jailed: false
-gfm_quirks: paragraph_end
 
-# Debug options
-verbose: true
-safe: false
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
