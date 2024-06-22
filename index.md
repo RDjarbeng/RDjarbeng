@@ -34,6 +34,6 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 
 ## Posts
 
-{% for post in site.posts %}
+{% raw %}{% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
+{% endfor %}{% endraw %}
