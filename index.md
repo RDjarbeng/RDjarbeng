@@ -35,9 +35,12 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 ## Posts
 
 <ul>
-  {% raw %}{% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}{% endraw %}
+{% raw %}{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}{% endraw %}
 </ul>
