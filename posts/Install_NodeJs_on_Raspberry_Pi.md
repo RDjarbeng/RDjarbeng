@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Install-NodeJs-on-Raspberry-Pi"
+date: 2023-10-25
+---
+
 # Install-NodeJs-on-Raspberry-Pi
 How to install NodeJs on the Raspberry Pi - tested on Raspberry Pi 4B using the terminal
 
