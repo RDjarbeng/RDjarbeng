@@ -34,6 +34,10 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 
 ## Posts
 
-{% raw %}{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}{% endraw %}
+<ul>
+  {% raw %}{% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}{% endraw %}
+</ul>
