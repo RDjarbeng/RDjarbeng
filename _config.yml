@@ -28,3 +28,6 @@ exclude:
 collections:
   projects:
     output: true
+sass:
+  sass_dir: _sass
+  quiet_deps: true
