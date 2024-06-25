@@ -31,3 +31,4 @@ collections:
 sass:
   sass_dir: _sass
   quiet_deps: true
+  style: compressed
