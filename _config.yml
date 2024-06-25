@@ -1,27 +1,26 @@
-name: Richard Djarbeng
-title: Richard Djarbeng's Personal Website
-description: Developer | Computer Engineer
-theme: jekyll-theme-minimal
+title: Your Site Title
+email: your-email@example.com
+description: >-
+  Write an awesome description for your new site here.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
-permalink: /:categories/:year/:month/:day/:title:output_ext
-
+# Build settings
+theme: minima
 plugins:
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-feed
 
-markdown: kramdown
-kramdown:
-  input: GFM
-
-future: true
-
+# Exclude from processing.
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
+  - Gemfile
+  - Gemfile.lock
   - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
