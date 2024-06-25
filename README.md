@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Computer Engineer
 -----------------------------
 
-I specialize mostly in web development machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
+I specialize mostly in web development, machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
 <br/>
 Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
 Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 
-* 🚀  I'm currently working on [Countdown application with themes and dark mode](http://rcountdown.netlify.app/) and following the course [fastai](https://course.fast.ai/) for deep learning
+* 🚀  I'm currently working on [Countdown application with themes and dark mode](http://rcountdown.netlify.app/), building my personal website and following the course [fastai](https://course.fast.ai/) for deep learning
 * 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  Open to collaborating on interesting projects
 
 ### Skills
 
