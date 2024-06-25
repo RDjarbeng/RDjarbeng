@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+custom_css_class: about-page
 ---
 
 # Developer | Computer Engineer
