@@ -1,26 +1,30 @@
-title: Your Site Title
-email: your-email@example.com
-description: >-
-  Write an awesome description for your new site here.
+title: Richard Djarbeng
+description: >- 
+  Developer and Computer Engineer specializing in web development, 
+  machine learning, and IoT devices.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://RDjarbeng.github.io" # the base hostname & protocol for your site
+github_username: RDjarbeng
+twitter_username: DjarbengRichard
+linkedin_username: richarddjarbeng
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
 # Exclude from processing.
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
+  - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Collections
+collections:
+  projects:
+    output: true
