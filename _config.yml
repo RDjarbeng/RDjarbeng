@@ -28,7 +28,21 @@ exclude:
 collections:
   projects:
     output: true
+  authors:
+    output: true
 sass:
   sass_dir: _sass
   quiet_deps: true
   style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
