@@ -73,3 +73,12 @@
     background-color: #0056b3;
   }
 }
+
+a:hover{
+  text-decoration: none;
+}
+.about-link  {
+  &:visited {
+    color: #fff;  // This will keep the original color
+  }
+}
