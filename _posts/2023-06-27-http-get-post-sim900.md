@@ -2,6 +2,7 @@
 layout: post
 title: "GSM module HTTP GET & POST request using arduino microcontroller and SIM900"
 date: 2023-06-27
+author: Richard
 ---
 
 # GSM module HTTP GET & POST request using arduino microcontroller and SIM900
