@@ -43,3 +43,12 @@ _Sigh_
 If you're reading this on my personal website then just know that the evil Dr Jekyll was defeated along with his henchman the build error. Hope to publish this soon🥲. 
 
 ~RD
+
+#### Edit a few minutes later:
+
+So I realized there are usually 2 builds which start and one of them usually succeeds and the other doesn't. I was using the 'jekyll-gh-pages' by before switching to just jekyll. 
+![workflow in github](https://github.com/user-attachments/assets/a10a3c67-2d2b-42c9-9c87-848868aa4fb0)
+So what I mean is that there were two concurrent builds; one for the recommended Jekyll build and one for the old jekyll-gh-pages as shown in the left of the screenshot. The build errors I was seeing were from that jekyll-gh-pages workflow which should have been disabled. Apparently Github does not disable it automatically when you create a new workflow even though they did that for the pages-build-deployment when I moved to Jekyll. Simple solution was to manually disable the jekyll-gh-pages workflow.
+
+Lesson learnt. Double check assumptions next time and stop blaming Dr Jekyll🙂
+
