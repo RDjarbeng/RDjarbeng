@@ -2,7 +2,7 @@ title: Richard Djarbeng
 description: >- 
   Developer and Computer Engineer specializing in web development, 
   machine learning, and IoT devices.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/RDjarbeng" # the subpath of your site, e.g. /blog
 url: "https://RDjarbeng.github.io" # the base hostname & protocol for your site
 github_username: RDjarbeng
 twitter_username: DjarbengRichard
