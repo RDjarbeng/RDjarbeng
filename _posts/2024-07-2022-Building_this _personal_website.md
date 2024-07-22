@@ -7,7 +7,8 @@ author: Richard
 
 # First step - Why Ruby?
 
-When I decided to build my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
+_This post is about my developer experience building my personal website with ruby, jekyll and GitHub pages, opinions mine_
+When I decided to build👨🏽‍💻 my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
 😒 But no, somebody had the bright idea to build with Ruby on Rails and Jekyll with deployment on Github pages.
 
 This site was suppose to be simple in functionality
@@ -18,7 +19,8 @@ This site was suppose to be simple in functionality
 
 At that time I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
 
-## Syntax and extensions
+## Jekyll
+### Syntax and extensions
 First of all the ruby syntax is slightly weird and there is a mixture of different file formats. Apart from the big three in web development
 * HTML
 * CSS
@@ -29,8 +31,41 @@ There are also more files with extensions:
 * Markdown (.md)
 * Gemfile _(no extension)_
 
+Not forgetting that it also supports
+* Json (.json)
+* CSV (.csv)
+
+### Jekyll step by step tutorial
+The [Jekyll step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) is okay for people learning who already have some programming experience. Perhaps with a similar stack in web development. Would not recommend for absolute beginners who have never coded however.
+The step-by-step tutorial covers:
+
+1. Setup
+2. Liquid (Jekyll's templating language)
+3. Front Matter
+4. Layouts
+5. Includes
+6. Data Files
+7. Assets
+8. Blogging
+9. Collections
+10. Deployment
+
+The tutorial covers blogging but does not specify how to work with images (😒 what blog has no images) and other media. It is a very minimal approach to get quickly started with Jekyll. Could also benefit with screenshots of some of the steps.
+
+### Developing locally with Jekyll
+The site is served with the command:
+`bundle exec jekyll serve`
+I use this command with the 'livereload' flag to avoid manually reloading.
+`bundle exec jekyll serve --livereload` 
+
+The bundling of the site was pretty quick to load up a server and supports hot reloading so I didn't have to stop the server all the time.
+
+The experience of creating posts on the fly with minimal delay makes it comparable to javascript bundlers such as [Vite](https://vitejs.dev/). 
+There was some intial friction but once the teething issues are sorted it's a very enjoyable developer process. The errors thrown in the terminal when coding are also not super ambiguous and most of the time I could interpret them and fix easily.
+
+
 ## Deployment and errors
-Second comes the deployment on Github. Deploying with the Github pages default for Jekyll apparently does not support certain versions of Jekyll or Ruby or certain gems. So the result was one build error after the other. As shown 😒:
+Then comes the deployment on Github. Deploying with the Github pages default for Jekyll apparently does not support certain versions of Jekyll or Ruby or certain gems. So the result was one build error after the other. As shown 😒:
 ![build errors jekyll](https://github.com/user-attachments/assets/b075fbf5-2675-463b-8aea-032cfdf2dbbd)
 
 ### Debugging Jekyll
@@ -42,7 +77,6 @@ _Sigh_
 
 If you're reading this on my personal website then just know that the evil Dr Jekyll was defeated along with his henchman the build error. Hope to publish this soon🥲. 
 
-~RD
 
 #### Edit a few minutes later:
 
@@ -50,5 +84,8 @@ So I realized there are usually 2 builds which start and one of them usually suc
 ![workflow in github](https://github.com/user-attachments/assets/a10a3c67-2d2b-42c9-9c87-848868aa4fb0)
 So what I mean is that there were two concurrent builds; one for the recommended Jekyll build and one for the old jekyll-gh-pages as shown in the left of the screenshot. The build errors I was seeing were from that jekyll-gh-pages workflow which should have been disabled. Apparently Github does not disable it automatically when you create a new workflow even though they did that for the pages-build-deployment when I moved to Jekyll. Simple solution was to manually disable the jekyll-gh-pages workflow.
 
-Lesson learnt. Double check assumptions next time and stop blaming Dr Jekyll🙂
+Lesson learnt. Double check assumptions next time and stop blaming Dr Jekyll🙂 wohoo!
+
+![image](https://github.com/user-attachments/assets/43728fc2-7195-44c7-9f81-4b06920948a9)
+
 
