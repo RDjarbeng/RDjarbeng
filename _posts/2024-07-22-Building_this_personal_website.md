@@ -8,16 +8,18 @@ author: Richard
 # First step - Why Ruby?
 
 _This post is about my developer experience building my personal website with ruby, jekyll and GitHub pages, opinions mine_
-When I decided to build👨🏽‍💻 my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
-😒 But no, somebody had the bright idea to build with Ruby on Rails and Jekyll with deployment on Github pages.
 
-This site was suppose to be simple in functionality
+When I decided to build👨🏽‍💻 my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
+😒 But no, somebody had the bright idea to build with Ruby and Jekyll with deployment on Github pages.
+At that point I had watched the ruby on rails demo by David Heinemeier Hansson and thought it was pretty neat. It also reminded me of the PHP framework laravel _(source twitter: turns out laravel rather copies ruby on rails )_.
+
+The site I had in mind was suppose to be simple in functionality
 * Generate pages of post
 * Support images and gifs
-* Include content about, yours truly, Richard
+* Include content about the creator, yours truly, Richard
 * Have a smooth blogging experience
 
-At that time I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
+Since I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
 
 ## Jekyll
 ### Syntax and extensions
@@ -36,7 +38,7 @@ Not forgetting that it also supports
 * CSV (.csv)
 
 ### Jekyll step by step tutorial
-The [Jekyll step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) is okay for people learning who already have some programming experience. Perhaps with a similar stack in web development. Would not recommend for absolute beginners who have never coded however.
+The [Jekyll step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) is okay for people learning who already have some programming experience. Perhaps with a similar stack in web development. However I would not recommend it for absolute beginners who have never coded before.
 The step-by-step tutorial covers:
 
 1. Setup
