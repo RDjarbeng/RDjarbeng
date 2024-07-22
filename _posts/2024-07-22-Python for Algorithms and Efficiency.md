@@ -5,6 +5,7 @@ author: Richard
 ---
 
 # Python for Algorithms
+![how to solve_image](https://github.com/user-attachments/assets/7f4e6f80-cae3-4622-b1cf-4bc4825c3ba8)
 
 Having code that works or implementing a solution is not good enough. Some problems require optimizing for memory and time and also meeting given constraints. Efficiency matters, and the scalability of the code is crucial. It must also perform well for its given implementation.
 
