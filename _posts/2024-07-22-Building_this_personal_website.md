@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richard's personal website- Dr Jekyll & Ruby"
+title: "Dr Jekyll & Ruby building Richard's personal website"
 date: 2024-07-22
 author: Richard
 ---
