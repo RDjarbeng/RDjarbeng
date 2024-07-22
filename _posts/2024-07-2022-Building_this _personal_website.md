@@ -30,11 +30,11 @@ There are also more files with extensions:
 * Gemfile _(no extension)_
 
 ## Deployment and errors
-Then comes the deployment on Github. Deploying with the Github pages default for Jekyll apparently does not support certain versions of Jekyll or Ruby or certain gems. So the result was one build error after the other. As shown 😒:
+Second comes the deployment on Github. Deploying with the Github pages default for Jekyll apparently does not support certain versions of Jekyll or Ruby or certain gems. So the result was one build error after the other. As shown 😒:
 ![build errors jekyll](https://github.com/user-attachments/assets/b075fbf5-2675-463b-8aea-032cfdf2dbbd)
 
 ### Debugging Jekyll
-Then I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed _(apparently not)_.
+Finally, I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed _(apparently not)_.
 Ironically this post also failed when I added it to the posts on the site.
 ![adding posts to site failed](https://github.com/user-attachments/assets/c1731bac-b045-4bd0-9cd6-33e3107dd21b)
 
