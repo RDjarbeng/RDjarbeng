@@ -11,7 +11,7 @@ _This post is about my developer experience building my personal website with ru
 
 When I decided to build👨🏽‍💻 my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
 😒 But no, somebody had the bright idea to build with Ruby and Jekyll with deployment on Github pages.
-At that point I had watched the ruby on rails demo by David Heinemeier Hansson and thought it was pretty neat. It also reminded me of the PHP framework laravel _(source twitter: turns out laravel rather copies ruby on rails )_.
+At that point I had watched the [ruby on rails demo](https://www.youtube.com/watch?v=Gzj723LkRJY&) by [David Heinemeier](https://dhh.dk/) Hansson and thought it was pretty neat. It also reminded me of the PHP framework laravel _(unreliable source twitter: turns out laravel rather copies ruby on rails )_.
 
 The site I had in mind was suppose to be simple in functionality
 * Generate pages of post
@@ -71,7 +71,7 @@ Then comes the deployment on Github. Deploying with the Github pages default for
 ![build errors jekyll](https://github.com/user-attachments/assets/b075fbf5-2675-463b-8aea-032cfdf2dbbd)
 
 ### Debugging Jekyll
-Finally, I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed _(apparently not)_.
+Finally, I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed ... _(apparently not)_.
 Ironically this post also failed when I added it to the posts on the site.
 ![adding posts to site failed](https://github.com/user-attachments/assets/c1731bac-b045-4bd0-9cd6-33e3107dd21b)
 
