@@ -53,4 +53,4 @@ Let's continuously improve our skills and write better code!
 
 #coding #programming #algorithms #datastructures #efficiency #optimization #learning
 
-![Picture from freeCodeCamp](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
+Credits: [Picture from freeCodeCamp](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
