@@ -10,7 +10,14 @@ custom_css_class: about-page
 
 I specialize mostly in web development machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
 <br/>
-Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
+
+### Professional Summary
+
+- Specialized in web development, machine learning, and IoT devices (Raspberry Pi, Arduino)
+- Experienced in developing progressive web applications and data-driven solutions
+- Skilled in cloud technologies, particularly Google Cloud Platform
+- Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
+
 
 ### Skills
 
