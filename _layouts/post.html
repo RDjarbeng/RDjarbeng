@@ -5,10 +5,10 @@ layout: default
 <p>{{ page.date | date_to_string }}
     {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
+    -Author: <a href="{{ author.url }}" class="author">{{ author.name }}</a>
   {% endif %}
 </p>
 
 <!-- Something's here {{page.author}} -->
-
+something cool
 {{ content }}
