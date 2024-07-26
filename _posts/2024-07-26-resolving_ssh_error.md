@@ -50,3 +50,6 @@ ssh user@192.168.xxx.xxx
 If this works, the first time you connect, SSH will prompt you to accept the new host key. If you are confident that the connection is secure, you can accept the new key by typing `yes`. And continue the ssh connection to the pi by typing the password when prompted. The password is not shown as text in the terminal. You just have to type it without being able to see it on the screen and hit enter.
 
 If it works you should now see the working directory showing as the hostname and user similar to the screenshot below.
+
+![Screenshot_successful_ssh_on_pi](https://github.com/user-attachments/assets/2ddcbef2-6527-4d9e-a2e6-6b89522bdfe4)
+
