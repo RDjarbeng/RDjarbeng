@@ -1,5 +1,9 @@
-**Installing and Uninstalling Node.js on linux-based Systems- for raspberry pi 4B NodeJs 16**
-===============================================
+---
+title: "Installing and removing Node.js on linux-based Systems-for raspberry pi 4B "
+date: 2024-07-26
+author: Richard
+---
+
 
 To install Node.js 16 after uninstalling Node.js 18, you can use the NodeSource repository to get the specific version you want. Here's a step-by-step guide:
 
