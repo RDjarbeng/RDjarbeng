@@ -25,8 +25,8 @@ A couple of things to keep in mind:
 2. If you're looking for the high-resolution images you might see on Google Earth, those often come from drones or aircraft, not satellites.
 
 If you're interested in learning more, NASA ARSET has some helpful training videos, and the GEE documentation is a good place to start after registration. These links can get you started:
-https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-satellite-remote-sensing-land-and-water-applications
-https://developers.google.com/earth-engine/guides
+[NASA ARSET training](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-satellite-remote-sensing-land-and-water-applications)
+[GEE developer guide](https://developers.google.com/earth-engine/guides)
 
 This tool significantly helped my project work, and I hope it might be useful for others too.
 
