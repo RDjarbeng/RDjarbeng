@@ -1,0 +1,31 @@
+---
+title: "Google Earth Engine: A Useful Tool for Satellite Imagery"
+date: 2022-12-27
+layout: post
+author: Richard
+---
+
+
+During my final year project at the University of Ghana, I discovered Google Earth Engine (GEE), and I thought it might be helpful to share my experience with others who might need satellite images for their work.
+
+GEE is essentially a repository of satellite images with some analysis capabilities. It's free for academic and research use, and it's also available for commercial purposes. You can find it here: https://earthengine.google.com/
+
+Here are a few things I found useful:
+
+- It includes historical imagery dating back over 30 years to the present day
+- You can access it using JavaScript or Python (Web IDE provided for JavaScript)
+- Image refresh times vary from daily to a few weeks, depending on the dataset and satellite image source
+
+One interesting feature is the ability to filter images to show a specific area in a given year. However, it's worth noting that the highest resolution available is 10m pixel resolution from Sentinel-2, which might not be enough for very detailed views.
+
+A couple of things to keep in mind:
+1. GEE can use a lot of data during development, so be cautious if you're on a limited data plan.
+2. If you're looking for the high-resolution images you might see on Google Earth, those often come from drones or aircraft, not satellites.
+
+If you're interested in learning more, NASA ARSET has some helpful training videos, and the GEE documentation is a good place to start after registration. These links can get you started:
+https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-satellite-remote-sensing-land-and-water-applications
+https://developers.google.com/earth-engine/guides
+
+This tool significantly helped my project work, and I hope it might be useful for others too.
+
+#research #project #javascript #python #satellite-imagery
