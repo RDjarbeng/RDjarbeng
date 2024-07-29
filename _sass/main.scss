@@ -35,7 +35,7 @@
   justify-content: space-between; /* Ensures that items are spread out and the date stays at the bottom */
   height: 100%; /* Makes the card take up the full height */
   
-
+  
   &:hover {
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   }
@@ -45,6 +45,13 @@
   max-width: 100%;
   height: auto;
   border-radius: 4px;
+  width: 100%; /* Adjust as needed */
+  max-height: 185px; 
+  object-fit: cover; 
+}
+
+.post-card .post-image {
+  max-height: 300px; 
 }
 
 .post-excerpt {
@@ -76,10 +83,6 @@
 
 /* Ensure all post images are the same size */
 .post-image {
-  width: 100%; /* Adjust as needed */
-  max-height: 300px; /* Limit maximum width */
-  height: auto; /* Maintain aspect ratio */
-  object-fit: cover; /* Crop image if needed */
 }
 
 
