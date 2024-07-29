@@ -3,6 +3,7 @@ title: "Stranger Things by Peter Kimanzi"
 date: 2022-10-17
 layout: post
 author: Richard
+image: /assets/images/stranger_things.png
 ---
 
 Here is a recording for the ‘Stranger Things’ animation website from developer [Peter Kimanzi](https://www.linkedin.com/in/peter-kimanzi-002299206/). I mentioned it in a previous post and I thought you would appreciate it more if you could see it for yourself. Notice the mouse pointer and how the ‘creatures’ follow. [Stranger Things site](https://peter-kimanzi.github.io/Stranger-things-animation/)

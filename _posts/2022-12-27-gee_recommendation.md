@@ -3,6 +3,7 @@ title: "Google Earth Engine: A Useful Tool for Satellite Imagery"
 date: 2022-12-27
 layout: post
 author: Richard
+image: https://github.com/user-attachments/assets/213b0937-d8b0-4b12-82fc-9220c977fd39
 ---
 
 ![image](https://github.com/user-attachments/assets/f228193a-fdd1-4708-a78e-76babb867959)

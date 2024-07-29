@@ -3,6 +3,7 @@ title: "Spotlight on Peter Kimanzi"
 date: 2022-10-10
 layout: post
 author: Richard
+image: /assets/images/peterKimanziPortfolio.png
 ---
 
 _Developer from Nairobi, Kenya._
