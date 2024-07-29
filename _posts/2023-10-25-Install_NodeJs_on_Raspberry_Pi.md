@@ -3,6 +3,7 @@ layout: post
 title: "Install-NodeJs-on-Raspberry-Pi"
 date: 2023-10-25
 author: Richard
+image: /assets/images/old_node_js.png
 ---
 
 > For an updated version of this post see this post:
