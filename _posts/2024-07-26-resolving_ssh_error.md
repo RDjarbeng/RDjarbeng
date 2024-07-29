@@ -2,6 +2,7 @@
 title: "Resolving SSH 'REMOTE HOST IDENTIFICATION HAS CHANGED' Error"
 date: 2024-07-26
 author: Richard
+image: /assets/images/error_image.webp
 ---
 
 If you encounter this error when connecting to your Raspberry Pi via SSH using its IP address or rasperrypi.local:
@@ -21,7 +22,11 @@ Add correct host key in /path/to/.ssh/known_hosts to get rid of this message.
 Offending ECDSA key in /path/to/.ssh/known_hosts:11
 ```
 
-This warning appears because the SSH client has detected a change in the host key of the remote server, which could be due to a legitimate change in the server's configuration or it could indicate a potential security risk like a man-in-the-middle attack. If you are certain that the change is legitimate, you can resolve this issue by removing the old key from the `known_hosts` file. Here’s how you can do it:
+This warning appears because the SSH client has detected a change in the host key of the remote server, which could be due to a legitimate change in the server's configuration or it could indicate a potential security risk like a man-in-the-middle attack. If you are certain that the change is legitimate, you can resolve this issue by removing the old key from the `known_hosts` file.
+
+![error image red ]({{ site.baseurl }}/assets/images/error_image.webp)
+
+Here’s how you can do it:
 
 1. **Locate the `known_hosts` file:**
    The file is typically located at `~/.ssh/known_hosts` on Unix-like systems (Linux, macOS) and at `C:\Users\<YourUsername>\.ssh\known_hosts` on Windows.
@@ -53,3 +58,5 @@ If it works you should now see the working directory showing as the hostname and
 
 ![Screenshot_successful_ssh_on_pi](https://github.com/user-attachments/assets/2ddcbef2-6527-4d9e-a2e6-6b89522bdfe4)
 
+
+[Error Image source](https://sparwan.com/en/blogs/news/comment-resoudre-lerreur-ssh-warning-remote-host-identification-has-changed)
