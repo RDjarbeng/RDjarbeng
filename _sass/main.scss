@@ -74,6 +74,15 @@
   }
 }
 
+/* Ensure all post images are the same size */
+.post-image {
+  width: 100%; /* Adjust as needed */
+  max-height: 300px; /* Limit maximum width */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Crop image if needed */
+}
+
+
 a:hover{
   text-decoration: none;
 }
