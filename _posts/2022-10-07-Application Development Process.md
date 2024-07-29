@@ -3,12 +3,13 @@ title: " App Development Process: From Concept to Launch"
 date: 2022-10-07
 layout: post
 author: Richard
+image: https://github.com/user-attachments/assets/f8d639ae-687d-4eaa-af1d-60d2bd7b62fc
 ---
-![idea image light bulb](https://github.com/user-attachments/assets/f8d639ae-687d-4eaa-af1d-60d2bd7b62fc)
 
 # Is there a general process to follow to build an application?
-
-Generally, it is a good idea to break down the steps you need and then test each one before moving to the next. However, the particular process to follow will depend on the company and their techniques, such as agile, and the specific application you are building.
+Generally, it is a good idea to break down the steps you need and then test each one before moving to the next. 
+![idea image light bulb](https://github.com/user-attachments/assets/f8d639ae-687d-4eaa-af1d-60d2bd7b62fc)
+However, the particular process to follow will depend on the company and their techniques, such as agile, and the specific application you are building.
 
 An example of a process some may follow:
 
