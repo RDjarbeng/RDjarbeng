@@ -15,7 +15,6 @@ Here is a screen recording for the ‘Stranger Things’ animation website from 
 
 Sorry for those on mobile, it's not as responsive on touch.
 
-<!-- Find the previous post about Peter Kimanzi, developer from Nairobi, Kenya here:
-https://lnkd.in/dqxcMQh6 -->
+Find the previous post about Peter Kimanzi, developer from Nairobi, Kenya [here](https://rdjarbeng.github.io/RDjarbeng/2022/10/10/Spotlight-on-Peter-Kimanzi.html)
 
 #code #javascript #animation
