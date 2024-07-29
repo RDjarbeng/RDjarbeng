@@ -25,6 +25,6 @@ This link might prove useful if you want to get technical about software enginee
 - [Software Engineering Best Practices That High-Performing Teams Follow](https://www.stepsize.com/blog/software-engineering-best-practices)
 
 
-Finally, many thanks to Robert Ayetey and Emmanuel Annor for their thoughts on this post.
+Finally, many thanks to [Robert Ayetey](https://gh.linkedin.com/in/robert-ayetey) and [Emmanuel Annor](https://gh.linkedin.com/in/yaw-annor) for their thoughts on this post.
 
 #softwareengineering #experience
