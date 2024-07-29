@@ -4,9 +4,8 @@ date: 2022-09-29
 layout: post
 author: Richard
 ---
-# 
 
-<!-- ![Light mode and dark mode comparison](image-url-here.jpg) -->
+![Light mode and dark mode comparison](https://github.com/user-attachments/assets/aa1035db-077c-439a-971e-5f8a002daaeb)
 
 As a developer, my respect for UX and UI has skyrocketed since conducting a small survey on color theme preferences for an application. The results were eye-opening and highlighted the complexities of user preferences.
 
