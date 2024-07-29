@@ -3,6 +3,7 @@ layout: post
 title: "Dr Jekyll & Ruby building Richard's personal website"
 date: 2024-07-22
 author: Richard
+image: /assets/images/jekyll_cyber.jpeg
 ---
 
 # First step - Why Ruby?
@@ -21,6 +22,7 @@ The site I had in mind was suppose to be simple in functionality
 
 Since I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
 
+![jekyll_cyber_theme by RD ]({{ site.baseurl }}/assets/images/jekyll_cyber.jpeg)
 ## Jekyll
 ### Syntax and extensions
 First of all the ruby syntax is slightly weird and there is a mixture of different file formats. Apart from the big three in web development
