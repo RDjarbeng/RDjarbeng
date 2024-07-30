@@ -82,7 +82,9 @@ _Sigh_
 If you're reading this on my personal website then just know that the evil Dr Jekyll was defeated along with his henchman the build error. Hope to publish this soon🥲. 
 
 
-#### Edit a few minutes later:
+### Edit a few moments later:
+
+![Man surprised staring at laptop]({{ site.baseurl }}/assets/images/man_surprised.png)
 
 So I realized there are usually 2 builds which start and one of them usually succeeds and the other doesn't. I was using the 'jekyll-gh-pages' by before switching to just jekyll. 
 ![workflow in github](https://github.com/user-attachments/assets/a10a3c67-2d2b-42c9-9c87-848868aa4fb0)
