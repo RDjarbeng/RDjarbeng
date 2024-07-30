@@ -1,7 +1,11 @@
----
----
+// ---
+// ---
 // @import "minima";
-
+$base-color: #c6538c;
+$border-dark: rgba($base-color, 0.88);
+$visited-color: #fff;
+$black-text-color: black;
+$link-hover-color: #1756a9;
 
 .home {
   display: flex;
@@ -55,7 +59,7 @@
 }
 
 .post-excerpt {
-  font-size: 0.9em;
+  font-size: 0.7em;
   color: #666;
 }
 
@@ -85,12 +89,21 @@
 .post-image {
 }
 
+a{
+  text-decoration: none;
+  color: $black-text-color;
+}
 
+a:visited {
+  color: black;
+  text-decoration: none;  // This will keep the original color
+}
 a:hover{
   text-decoration: none;
+  color: $link-hover-color;
 }
 .about-link  {
   &:visited {
-    color: #fff;  // This will keep the original color
+    color: $visited-color;  // This will keep the original color
   }
 }
