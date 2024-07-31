@@ -6,9 +6,9 @@ author: Richard
 image: https://github.com/user-attachments/assets/213b0937-d8b0-4b12-82fc-9220c977fd39
 ---
 
+I discovered Google Earth Engine (GEE), and I thought it might be helpful to share my experience with others who might need satellite images for their work.    
 ![image](https://github.com/user-attachments/assets/f228193a-fdd1-4708-a78e-76babb867959)
 
-I discovered Google Earth Engine (GEE), and I thought it might be helpful to share my experience with others who might need satellite images for their work.
 
 GEE is essentially a repository of satellite images with some analysis capabilities. It's free for academic and research use, and it's also available for commercial purposes. You can find it here: https://earthengine.google.com/
 
