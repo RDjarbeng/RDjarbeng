@@ -59,4 +59,4 @@ If it works you should now see the working directory showing as the hostname and
 ![Screenshot_successful_ssh_on_pi](https://github.com/user-attachments/assets/2ddcbef2-6527-4d9e-a2e6-6b89522bdfe4)
 
 
-[Error Image source](https://sparwan.com/en/blogs/news/comment-resoudre-lerreur-ssh-warning-remote-host-identification-has-changed)
+Image: [source](https://sparwan.com/en/blogs/news/comment-resoudre-lerreur-ssh-warning-remote-host-identification-has-changed)
