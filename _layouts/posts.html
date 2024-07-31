@@ -17,7 +17,7 @@ title: Blog
         {% endif %}
         <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
         <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-      </div>
-    </a>
+      </a>
+    </div>
   {% endfor %}
 </div>
