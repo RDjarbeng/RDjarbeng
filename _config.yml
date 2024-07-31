@@ -1,7 +1,11 @@
-title: Richard Djarbeng
+title: Richard Djarbeng- Computer Engineer & Tech leader
 description: >- 
-  Developer and Computer Engineer specializing in web development, 
-  machine learning, and IoT devices.
+  Explore the journey and insights of a Computer Engineer specializing in AI, 
+  web development, machine learning, and IoT. Discover cutting-edge tech trends, 
+  practical coding tips, and thought-provoking reflections on the evolving 
+  world of technology. Occasionally I write personal reflections on the personal section.
+keywords: [AI, web development, Internet of Things, machine learning, air quality, IoT, tech trends, coding, engineering]
+author: Richard Djarbeng
 baseurl: "/RDjarbeng" # the subpath of your site, e.g. /blog
 url: "https://RDjarbeng.github.io" # the base hostname & protocol for your site
 github_username: RDjarbeng
