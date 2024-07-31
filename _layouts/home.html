@@ -11,9 +11,9 @@ layout: default
     {% for post in site.posts limit:4 %}
     <a class="post-link" href="{{ post.url | relative_url }}">
       <div class="post-card">
-        <h3>
+        <h4>
             {{ post.title | escape }}
-          </h3>
+          </h4>
           {% if post.image %}
           <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image">
           {% endif %}
@@ -28,7 +28,7 @@ layout: default
 
 
 
-  <h2>My Projects</h2>
+  <!-- <h2>My Projects</h2>
   <div class="project-list">
     {% for project in site.data.projects limit:3 %}
       <div class="project-card">
@@ -37,7 +37,7 @@ layout: default
         <a href="{{ project.url }}" class="project-link">View Project</a>
       </div>
     {% endfor %}
-  </div>
+  </div> -->
 
   <a href="{{ '/about' | relative_url }}" class="about-link">More About Me</a>
 </div>
