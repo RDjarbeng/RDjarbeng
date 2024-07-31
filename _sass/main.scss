@@ -7,7 +7,7 @@ $visited-color: #fff;
 $black-text-color: black;
 $link-hover-color: #1756a9;
 $nav-padding: 7%;
-
+$wrapper-max-width: 85%;
 /* basic reset */
 *,
 *::before,
@@ -20,24 +20,24 @@ $nav-padding: 7%;
 }
 
 .wrapper{
-  max-width: 95%;
+  max-width: $wrapper-max-width;
 }
 
 .home {
   display: flex;
   flex-direction: column;
-  max-width: 85%;
+  // max-width: 85%;
   margin: 0 auto;
   // padding: 20px;
 }
 
-.site-nav{
-  padding-right: $nav-padding;
-}
+// .site-nav{
+//   padding-right: $nav-padding;
+// }
 
-.site-title{
-  padding-left: $nav-padding;
-}
+// .site-title{
+//   padding-left: $nav-padding;
+// }
 
 
 .post-list, .project-list {
