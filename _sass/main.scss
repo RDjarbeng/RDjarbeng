@@ -8,6 +8,7 @@ $black-text-color: black;
 $link-hover-color: #1756a9;
 $nav-padding: 7%;
 $wrapper-max-width: 85%;
+$grey: #999;
 /* basic reset */
 *,
 *::before,
@@ -90,7 +91,7 @@ $wrapper-max-width: 85%;
 
 .post-meta {
   font-size: 0.6em;
-  color: #999;
+  color: $grey;
   margin-bottom: 0px;
   margin-top: auto; /* Pushes the date to the bottom */
 }
@@ -133,4 +134,9 @@ a:hover{
 
 .svg-icon{
   padding-right: 0;
+}
+
+.author_date, .author{
+  color: $grey
+  // &:visited
 }
