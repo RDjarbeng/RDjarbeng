@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<div class="author_date">{{ page.date | date_to_string }}
+<div class="post-header">
+  <h1>{{ page.title }}</h1>
+  <div class="author_date">{{ page.date | date_to_string }}
     {% assign author = site.authors | where: 'short_name', page.author | first %}
-  
+    
     {% if author %}
     <div>
-    Author: <a href="{{ author.url }}" class="author">{{ author.name }}</a>
+      Author: <a href="{{ author.url }}" class="author">{{ author.name }}</a>
     </div>
     {% endif %}
+  </div>
 </div>
 
 <!-- Something's here {{page.author}} -->
