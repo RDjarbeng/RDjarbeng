@@ -45,6 +45,9 @@ collections:
     output: true
   authors:
     output: true
+  personal:
+    output: true
+    permalink: /personal/:path/
 sass:
   sass_dir: _sass
   quiet_deps: true
