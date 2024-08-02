@@ -1,6 +1,8 @@
 // ---
 // ---
 // @import "minima";
+@import "personal";
+
 $base-color: #c6538c;
 $border-dark: rgba($base-color, 0.88);
 $visited-color: #fff;
@@ -87,7 +89,7 @@ $link-visited-color: #5e599e;
 }
 
 .post-excerpt {
-  font-size: 0.7em;
+  font-size: 1.1;
   color: #666;
 }
 
