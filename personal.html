@@ -5,12 +5,14 @@ permalink: /personal/
 ---
 
 <h1>Personal Posts</h1>
-{% for post in site.personal %}
-  <div class="post-card">
-    <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h3>
-    <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-  </div>
-{% endfor %}
+<div class="personal-posts-list">
+  {% for post in site.personal %}
+    <div class="post-card">
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    </div>
+  {% endfor %}
+</div>
