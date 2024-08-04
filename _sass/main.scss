@@ -5,7 +5,7 @@
 
 $base-color: #c6538c;
 $border-dark: rgba($base-color, 0.88);
-$visited-color: #fff;
+$visited-color-white: #fff;
 $black-text-color: black;
 $link-hover-color: #1756a9;
 $nav-padding: 7%;
@@ -132,7 +132,7 @@ a:hover{
 }
 .about-link  {
   &:visited {
-    color: $link-visited-color;  // This will keep the original color
+    color: $visited-color-white
   }
 }
 
