@@ -50,7 +50,7 @@ $link-visited-color: #5e599e;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   gap: 3em;
   margin-top: 20px;
-  margin-bottom: 40px; // Add space after the grid
+  // margin-bottom: 40px; // Add space after the grid
   min-height: 0; // Add this line to ensure proper sizing
 }
 .single-column-post-list {
@@ -123,6 +123,7 @@ $link-visited-color: #5e599e;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s ease;
+  margin-bottom: 1em;
 
   &:hover {
     background-color: #0056b3;
