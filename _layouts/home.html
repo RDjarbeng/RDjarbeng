@@ -32,7 +32,7 @@ layout: default
   <div class="post-list">
     {% for personal in site.personal limit:3 %}
 
-    <a class="post-link" href="{{ post.url | relative_url }}">
+    <a class="post-link" href="{{ personal.url | relative_url }}">
       <div class="post-card">
         <h4>
             {{ personal.title | escape }}
