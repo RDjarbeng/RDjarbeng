@@ -4,7 +4,8 @@ title: Personal
 permalink: /personal/
 ---
 
-<h1>Personal Posts</h1>
+<h1>{{ site.personal | size }} Personal Posts </h1>
+
 <div class="personal-posts-list">
   {% for post in site.personal %}
     <div class="post-card">
