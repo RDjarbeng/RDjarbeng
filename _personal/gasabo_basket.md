@@ -5,12 +5,13 @@ image: /assets/images/gasabo_cropped.jpg
 date: 2024-08-05
 ---
 
-Have you ever wondered why there is a giant basket on a building in Kigali?
+First time visitors to Kigali might wonder why there is a giant basket on a building in Kigali? I know I did.
 
 <video class="video-site" width="50%" height="500px"  preload="auto" controls>
   <source src="{{ '/assets/videos/gasabo_basket.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## 📍Where are we?
 
 Let's start with the basics: we’re on Planet Earth, in Africa, in Rwanda, in Kigali, and finally, we arrive at the Gasabo district.
@@ -27,7 +28,7 @@ This distinctive feature not only represents the cultural heritage of the area b
 
 The giant basket is a pretty unique landmark in Kigali. It’s an interesting blend of modern architecture and traditional symbolism, creating a visual representation of the district's identity.
 
-Source: Friends in Kigali
+Source: Friends in Kigali. Thanks to Adonia, Clemence, Gad and Sandrine
 
 Music: Amaliza by Ruti Joel
 
