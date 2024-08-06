@@ -6,7 +6,7 @@ layout: default
   <h1>Page is under construction 🙂-Welcome to Richard Djarbeng's Website</h1>
   <p>{{ site.description }}</p>
 
-  <h2>Latest Posts</h2>
+  <h2 class="section-title">Latest Posts</h2>
   <div class="post-list">
     {% for post in site.posts limit:4 %}
     <a class="post-link" href="{{ post.url | relative_url }}">
@@ -28,16 +28,25 @@ layout: default
 
 
 
-  <!-- <h2>My Projects</h2>
-  <div class="project-list">
-    {% for project in site.data.projects limit:3 %}
-      <div class="project-card">
-        <h3>{{ project.title }}</h3>
-        <p>{{ project.description }}</p>
-        <a href="{{ project.url }}" class="project-link">View Project</a>
-      </div>
+  <h2 class="section-title">Personal posts</h2>
+  <div class="post-list">
+    {% for personal in site.personal limit:3 %}
+
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      <div class="post-card">
+        <h4>
+            {{ personal.title | escape }}
+          </h4>
+          {% if personal.image %}
+          <img src="{{ personal.image | relative_url }}" alt="{{ personal.title }}" class="post-image">
+          {% endif %}
+          <p class="post-excerpt">{{ personal.excerpt | strip_html | truncatewords: 30 }}</p>
+          <p class="post-meta">{{ personal.date | date: "%B %-d, %Y" }}</p>
+        </div>
+      </a>
+
     {% endfor %}
-  </div> -->
+  </div>
 
   <a href="{{ '/about' | relative_url }}" class="about-link">More About Me</a>
 </div>
