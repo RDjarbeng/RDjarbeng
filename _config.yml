@@ -1,9 +1,8 @@
 title: Richard Djarbeng
 description: >- 
   Explore the journey and insights of a Computer Engineer & Tech leader specializing in AI, 
-  web development, machine learning, and IoT. Discover cutting-edge tech trends, 
-  practical coding tips, and thought-provoking reflections on the evolving 
-  world of technology. Occasionally I write personal reflections on the personal section.
+  web development, machine learning, and IoT. Discover cutting-edge tech trends and thought-provoking reflections on the evolving 
+  world of technology. Occasionally I write personal reflections on the personal section about Africa(Ghana, Rwanda), generative AI and interesting stuff in general.
 keywords: [AI, web development, Internet of Things, machine learning, air quality, IoT, tech trends, coding, engineering]
 author: Richard Djarbeng
 baseurl: "/RDjarbeng" # the subpath of your site, e.g. /blog
@@ -27,7 +26,7 @@ seo:
     machine learning, and IoT devices.
   url: "https://rdjarbeng.github.io/RDjarbeng/"
   twitter: DjarbengRichard
-  logo: "/favicon.ico"
+  logo: "./favicon.ico"
   theme_color: "#999"
 # Exclude from processing.
 exclude:
