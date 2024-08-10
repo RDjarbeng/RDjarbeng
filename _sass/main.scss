@@ -24,6 +24,10 @@ $link-visited-color: #5e599e;
     scroll-behavior: smooth;
 }
 
+img{
+  display: block;
+}
+
 .wrapper{
   max-width: $wrapper-max-width;
 }
