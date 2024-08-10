@@ -30,7 +30,8 @@ layout: default
 
   <h2 class="section-title">Personal posts</h2>
   <div class="post-list">
-    {% for personal in site.personal limit:3 %}
+    {% assign sorted_posts = site.personal | sort: 'date' | reverse %}
+    {% for personal in sorted_posts limit:3 %}
 
     <a class="post-link" href="{{ personal.url | relative_url }}">
       <div class="post-card">

@@ -7,7 +7,8 @@ permalink: /personal/
 <h1>{{ site.personal | size }} Personal Posts </h1>
 
 <div class="personal-posts-list">
-  {% for post in site.personal %}
+    {% assign sorted_posts = site.personal | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
     <div class="post-card">
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
