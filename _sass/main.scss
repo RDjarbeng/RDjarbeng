@@ -28,6 +28,9 @@ img{
   display: block;
 }
 
+a img{
+  display: inline-block;
+}
 .wrapper{
   max-width: $wrapper-max-width;
 }
