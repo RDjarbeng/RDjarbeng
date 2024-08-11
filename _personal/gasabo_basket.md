@@ -7,10 +7,7 @@ date: 2024-08-05
 
 First time visitors to Kigali might wonder why there is a giant basket on a building in Kigali? I know I did.
 
-<!-- <video class="video-site" width="50%" height="500px"  preload="auto" controls>
-  <source src="{{ '/assets/videos/gasabo_basket.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
+<iframe width="315" height="560" src="https://www.youtube.com/embed/dJKaG9v0S00" title="Why is there a giant basket on this building?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📍Where are we?
 
