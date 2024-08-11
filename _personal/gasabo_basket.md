@@ -7,10 +7,10 @@ date: 2024-08-05
 
 First time visitors to Kigali might wonder why there is a giant basket on a building in Kigali? I know I did.
 
-<video class="video-site" width="50%" height="500px"  preload="auto" controls>
+<!-- <video class="video-site" width="50%" height="500px"  preload="auto" controls>
   <source src="{{ '/assets/videos/gasabo_basket.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 ## 📍Where are we?
 
