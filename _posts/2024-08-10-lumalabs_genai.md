@@ -12,7 +12,7 @@ Limits of Generative AI: My Experience with Luma AI and Virtual Bees.
 ### What I Did
 After signing up for a Luma Labs account, I uploaded my chosen image to their platform. Below is the input image I used:
 
-![Many bees with one large bee or flying insect in the background]]({{ site.baseurl }}/assets/images/bees_luma.jpeg)
+![Many bees with one large bee or flying insect in the background]({{ site.baseurl }}/assets/images/bees_luma.jpeg)
 
 I then entered this simple prompt:
 
@@ -28,7 +28,7 @@ After a short wait, the results were in.
   Your browser does not support the video tag.
 </video>
 
-The AI recognized the image as one of flying insects, and it attempted to animate them. However, it struggled with making the wings flap realistically. To give the attempt some credit, the bees in the background seemed to move their wings slightly. While the body of the insect moved like a flying object, it didn't quite capture the nuances of how insects actually fly which I found hilarious.
+The dream machine AI recognized the image as one of flying insects, and it attempted to animate them. However, it struggled with making the wings flap realistically. To give the attempt some credit, the bees in the background seemed to move their wings slightly. While the body of the insect moved like a flying object, it didn't quite capture the nuances of how insects actually fly which I found hilarious.
 
 In reality, a bee can't move forward or tilt its body the way the AI made it do without flapping its wings. This is an interesting example of generative AI's limitations—specifically, its lack of understanding of the physical laws that govern the real world.
 
