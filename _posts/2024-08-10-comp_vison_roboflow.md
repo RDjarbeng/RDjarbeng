@@ -1,7 +1,7 @@
 ---
 title: "Learn to Build Computer Vision Models with Roboflow"
 author: Richard
-date: 2024-08-05
+date: 2024-08-10
 image: /assets/images/comp_vision_roboflow.jpeg
 ---
 

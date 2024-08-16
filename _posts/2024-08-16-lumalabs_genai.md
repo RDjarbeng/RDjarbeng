@@ -1,7 +1,7 @@
 ---
 title: " Can AI bring images to life?"
 author: Richard
-date: 2024-08-05
+date: 2024-08-16
 image: /assets/images/bees_luma.jpeg
 ---
 
