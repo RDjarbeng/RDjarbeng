@@ -9,7 +9,7 @@ Could this update from the CEO of Telegram have been the start of his decision t
 
 ![Screenshot of Durov's update]({{ site.baseurl }}/assets/images/pavel_update_france.png)
 
-This screenshot is from his telegram channel where he regularly posts updates. This was one of the times he had suggested going to France stating that the Middle East was pretty warm.
+This screenshot is from his telegram channel where he regularly posts updates. This was one of the times he had suggested going to France stating that the Middle East was pretty warm. Here he called France the best Holiday destination.
 
 Background:
 Pavel Valeryevich Durov is a business executive who is a co-founder and the chief executive officer of Telegram Messenger Inc. and a co-founder of social networking site VK. He was arrested at a French aiport after landing on the 25th of August, 2024.
