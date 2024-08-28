@@ -11,8 +11,9 @@ Often use Python, Java, C++, Dart for Flutter mobile app development and a host 
 Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
 
-* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) and following the course [fastai](https://course.fast.ai/) for deep learning
-* 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices
+* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) where I blog occasionally about non-technical stuff as well.
+* 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
+* My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
 * 🤝  Open to collaborating on interesting projects
 
 ### Skills
