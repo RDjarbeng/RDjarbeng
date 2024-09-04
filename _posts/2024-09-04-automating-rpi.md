@@ -35,7 +35,7 @@ sudo nano /etc/systemd/system/myscript.service
 
 #### Step 2: Add the Following Content to the Service File
 
-Replace the paths and script names as needed for your setup.
+Replace the paths and script names as needed for your setup. Paste this inside the nano editor. 
 
 ```ini
 [Unit]
@@ -51,6 +51,8 @@ User=root
 [Install]
 WantedBy=multi-user.target
 ```
+
+To exit nano after pasting use `ctrl+x` choose **yes (Y)** when asked to save modified buffer. Hit the **Enter** key to confirm the file name and you should be back in the terminal.
 
 #### Step 3: Reload systemd Configuration
 

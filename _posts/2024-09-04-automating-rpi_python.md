@@ -36,6 +36,7 @@ Environment=PYTHONUNBUFFERED=1
 WantedBy=multi-user.target
 ```
 
+To exit nano after pasting use `ctrl+x` choose **yes (Y)** when asked to save modified buffer. Hit the **Enter** key to confirm the file name and you should be back in the terminal.
 ### Explanation:
 - **User**: This specifies the user under which the script will run (replace `iot` with your actual username if different).
 - **WorkingDirectory**: The directory where your script and virtual environment are located.
