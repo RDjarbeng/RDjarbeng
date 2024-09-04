@@ -2,11 +2,9 @@
 title: "Automating Python Execution on a Raspberry Pi with a virtual environment"
 author: Richard
 date: 2024-08-26
-image: /assets/images/raspberrypi.png
+image: /assets/images/just_start.png
 ---
 
-```markdown
-# Automating Python Script Execution on Raspberry Pi Using systemd
 
 In this guide, you will learn how to automate the execution of a Python script on your Raspberry Pi using a `systemd` service. This can be particularly useful for running scripts automatically at startup without any manual intervention.
 
@@ -88,5 +86,3 @@ This will show you the full log of the service, which may provide more insight i
 ## Conclusion
 
 By following this guide, you’ve successfully automated the execution of your Python script using `systemd`. Your script will now run automatically on boot and restart if it ever crashes.
-```
-
