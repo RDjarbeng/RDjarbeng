@@ -8,8 +8,10 @@ I specialize mostly in web development, machine learning and Internet of Things 
 <br/>
 Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
-Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
+
+Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
+
 
 Most of my animation projects in Blender or work with Unity are not on Github. 
 
@@ -38,3 +40,5 @@ Most of my animation projects in Blender or work with Unity are not on Github.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RDjarbeng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+Reach me on X/twitter or on linkedIn.
