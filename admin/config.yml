@@ -1,12 +1,7 @@
 backend:
   name: git-gateway
-  branch: main
-  # repo: RDjarbeng/RDjarbeng
-  # base_url: "https://your-oauth-server.com"  # OAuth server base URL
-  # auth_endpoint: "https://github.com/login/oauth/authorize"
-  # token_endpoint: "https://github.com/login/oauth/access_token"
-  # app_id: "<your-github-app-id>"  # GitHub OAuth app client ID
-
+  branch: main  # Ensure you're using your default branch, usually 'main' or 'master'
+display_url: https://rdjarbeng.github.io/RDjarbeng
 media_folder: "assets/images"  # Media files (images) will be stored here
 public_folder: "/assets/images"  # URL for media files
 
