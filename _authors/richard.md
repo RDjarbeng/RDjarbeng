@@ -1,6 +1,5 @@
 ---
 short_name: Richard
-name: Richard Djarbeng
 display_name: Richard Djarbeng
 position: Chief Editor
 ---
