@@ -60,17 +60,17 @@ collections:
       - { label: 'Position', name: 'position', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  # Navigation Configuration
-  - name: 'config'
-    label: 'Config'
-    files:
-      - label: 'Navigation'
-        name: 'navigation'
-        file: '_data/navigation.yml'
-        fields:
-          - label: 'Navigation Items'
-            name: 'items'
-            widget: 'list'
-            fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Link, name: link, widget: string }
+  # # Navigation Configuration
+  # - name: 'config'
+  #   label: 'Config'
+  #   files:
+  #     - label: 'Navigation'
+  #       name: 'navigation'
+  #       file: '_data/navigation.yml'
+  #       fields:
+  #         - label: 'Navigation Items'
+  #           name: 'items'
+  #           widget: 'list'
+  #           fields:
+  #             - { label: Name, name: name, widget: string }
+  #             - { label: Link, name: link, widget: string }
