@@ -17,7 +17,15 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Author', name: 'author', widget: 'string' }
+      - {
+          label: 'Author',
+          name: 'author',
+          widget: 'relation',
+          collection: 'authors',
+          display_fields: [display_name],
+          search_fields: [display_name],
+          value_field: 'name',
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Video', name: 'video', widget: 'file', media_folder: 'assets/videos', public_folder: '/assets/videos' }
