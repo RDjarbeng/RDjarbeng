@@ -1,0 +1,8 @@
+{
+    "name": "rdjarbeng-github-pages",
+    "version": "1.0.0",
+    "description": "GitHub Pages site with Decap CMS",
+    "dependencies": {
+      "netlify-auth-providers": "^1.0.0"
+    }
+  }
