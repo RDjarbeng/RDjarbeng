@@ -5,9 +5,9 @@ backend:
   name: github
   repo: RDjarbeng/RDjarbeng
   branch: main
-  base_url: https://rdjarbeng.netlify.app/
+  base_url: https://rdjarbeng.netlify.app
   auth_endpoint: auth
-  client_id: ${GITHUB_CLIENT_ID}
+  site_domain: rdjarbeng.github.io
 display_url: https://rdjarbeng.github.io/RDjarbeng
 media_folder: "assets/images"  # Media files (images) will be stored here
 public_folder: "/assets/images"  # URL for media files
