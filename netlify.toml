@@ -1,0 +1,12 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
