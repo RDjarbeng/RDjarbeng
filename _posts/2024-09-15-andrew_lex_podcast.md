@@ -1,6 +1,10 @@
-## test-A New Post
+---
+title: "Lex Fridman and Andrew Ng on Deep learning - Lex Podcast"
+author: Richard
+date: 2024-08-26
+image: /assets/images/andrewng_lex.png
+---
 
-![test image]({{site.baseurl}}/_posts/brightGlobe-ai-in-africa.jpg)
 
 
 Join Lex Fridman and Andrew Ng as they delve into the exciting world of deep learning in this podcast episode. These AI legends share valuable insights on not just deep learning, but also the critical factors to consider when making a career choice between a PhD or a job at a top organization. They also discuss tips on pursuing a career in deep learning, including the importance of work culture, colleagues, and management.
