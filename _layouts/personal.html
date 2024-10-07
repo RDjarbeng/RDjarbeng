@@ -8,7 +8,7 @@ layout: default
     
     {% if author %}
     <div>
-      Author: <a href="{{ author.url }}" class="author">{{ author.display_name }}</a>
+      Author: <a href="{{ author.url| relative_url  }}" class="author">{{ author.display_name }}</a>
     </div>
     {% endif %}
   </div>
