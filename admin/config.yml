@@ -5,6 +5,7 @@ backend:
   name: github
   repo: RDjarbeng/RDjarbeng
   branch: main
+  base_url: https://sveltia-cms-auth.richarddjarbeng.workers.dev/
   
 display_url: https://rdjarbeng.github.io/RDjarbeng
 media_folder: "assets/images"  # Media files (images) will be stored here
