@@ -61,7 +61,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Short Name', name: 'name', widget: 'string' }
+      - { label: 'Short Name', name: 'short_name', widget: 'string' }
       - { label: 'Display Name', name: 'display_name', widget: 'string' }
       - { label: 'Position', name: 'position', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
