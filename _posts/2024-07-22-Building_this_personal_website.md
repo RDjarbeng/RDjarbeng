@@ -1,45 +1,52 @@
 ---
-layout: post
-title: "Dr Jekyll & Ruby building Richard's personal website"
-date: 2024-07-22
+title: Dr Jekyll & Ruby building Richard's personal website
+date: 2024-07-22T00:00:00
 author: Richard
 image: /assets/images/jekyll_cyber.jpeg
+layout: post
 ---
-
 # First step - Why Ruby?
 
-_This post is about my developer experience building my personal website with ruby, jekyll and GitHub pages, opinions mine_
+*This post is about my developer experience building my personal website with ruby, jekyll and GitHub pages, opinions mine*
 
 When I decided to build👨🏽‍💻 my personal website I could have used [React](https://react.dev/) or just plain html and CSS with [Netlify](https://www.netlify.com/) deploy.
 😒 But no, somebody had the bright idea to build with Ruby and Jekyll with deployment on Github pages.
-At that point I had watched the [ruby on rails demo](https://www.youtube.com/watch?v=Gzj723LkRJY&) by [David Heinemeier](https://dhh.dk/) Hansson and thought it was pretty neat. It also reminded me of the PHP framework laravel _(unreliable source twitter: turns out laravel rather copies ruby on rails )_.
+At that point I had watched the [ruby on rails demo](https://www.youtube.com/watch?v=Gzj723LkRJY&) by [David Heinemeier](https://dhh.dk/) Hansson and thought it was pretty neat. It also reminded me of the PHP framework laravel *(unreliable source twitter: turns out laravel rather copies ruby on rails )*.
 
 The site I had in mind was suppose to be simple in functionality
-* Generate pages of post
-* Support images and gifs
-* Include content about the creator, yours truly, Richard
-* Have a smooth blogging experience
+
+- Generate pages of post
+- Support images and gifs
+- Include content about the creator, yours truly, Richard
+- Have a smooth blogging experience
 
 Since I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
 
 ![jekyll_cyber_theme by RD ]({{ site.baseurl }}/assets/images/jekyll_cyber.jpeg)
+
 ## Jekyll
+
 ### Syntax and extensions
+
 First of all the ruby syntax is slightly weird and there is a mixture of different file formats. Apart from the big three in web development
-* HTML
-* CSS
-* Javascript
+
+- HTML
+- CSS
+- Javascript
 
 There are also more files with extensions:
-* Yaml (.yml)
-* Markdown (.md)
-* Gemfile _(no extension)_
+
+- Yaml (.yml)
+- Markdown (.md)
+- Gemfile *(no extension)*
 
 Not forgetting that it also supports
-* Json (.json)
-* CSV (.csv)
+
+- Json (.json)
+- CSV (.csv)
 
 ### Jekyll step by step tutorial
+
 The [Jekyll step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) is okay for people learning who already have some programming experience. Perhaps with a similar stack in web development. However I would not recommend it for absolute beginners who have never coded before.
 The step-by-step tutorial covers:
 
@@ -57,6 +64,7 @@ The step-by-step tutorial covers:
 The tutorial covers blogging but does not specify how to work with images (😒 what blog has no images) and other media. It is a very minimal approach to get quickly started with Jekyll. Could also benefit with screenshots of some of the steps.
 
 ### Developing locally with Jekyll
+
 The site is served with the command:
 `bundle exec jekyll serve`
 I use this command with the 'livereload' flag to avoid manually reloading.
@@ -67,20 +75,20 @@ The bundling of the site was pretty quick to load up a server and supports hot r
 The experience of creating posts on the fly with minimal delay makes it comparable to javascript bundlers such as [Vite](https://vitejs.dev/). 
 There was some intial friction but once the teething issues are sorted it's a very enjoyable developer process. The errors thrown in the terminal when coding are also not super ambiguous and most of the time I could interpret them and fix easily.
 
-
 ## Deployment and errors
+
 Then comes the deployment on Github. Deploying with the Github pages default for Jekyll apparently does not support certain versions of Jekyll or Ruby or certain gems. So the result was one build error after the other. As shown 😒:
 ![build errors jekyll](https://github.com/user-attachments/assets/b075fbf5-2675-463b-8aea-032cfdf2dbbd)
 
 ### Debugging Jekyll
-Finally, I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed ... _(apparently not)_.
+
+Finally, I dug deeper on the [jekyll](https://jekyllrb.com/) website and apparently I have to use a very different workflow that involves github actions and configuring another yaml file🙄. Finally when I got that up and running, the build process for the site apparently is not in a good mood. It can randomly fail even on errors that I have already fixed ... *(apparently not)*.
 Ironically this post also failed when I added it to the posts on the site.
 ![adding posts to site failed](https://github.com/user-attachments/assets/c1731bac-b045-4bd0-9cd6-33e3107dd21b)
 
-_Sigh_
+*Sigh*
 
 If you're reading this on my personal website then just know that the evil Dr Jekyll was defeated along with his henchman the build error. Hope to publish this soon🥲. 
-
 
 ### Edit a few moments later:
 
@@ -93,5 +101,3 @@ So what I mean is that there were two concurrent builds; one for the recommended
 Lesson learnt. Double check assumptions next time and stop blaming Dr Jekyll🙂 wohoo!
 
 ![image](https://github.com/user-attachments/assets/43728fc2-7195-44c7-9f81-4b06920948a9)
-
-
