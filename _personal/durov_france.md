@@ -2,6 +2,7 @@
 layout: personal
 title: "Is this where Durov's French journey began "
 image: /assets/images/durov_mountains.jpg
+author: Richard
 date: 2024-08-26
 ---
 
