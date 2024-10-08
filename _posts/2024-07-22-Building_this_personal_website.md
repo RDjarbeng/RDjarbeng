@@ -1,5 +1,5 @@
 ---
-title: Dr Jekyll & Ruby building Richard's personal website
+title: Dr Jekyll & Ruby -building Richard's personal website
 date: 2024-07-22T00:00:00
 author: Richard
 image: /assets/images/jekyll_cyber.jpeg
