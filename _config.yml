@@ -18,6 +18,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-last-modified-at
+
+# timezone: Africa/Maputo
 
 seo:
   title: "Richard Djarbeng's website- Web, Internet of things and Data -"
