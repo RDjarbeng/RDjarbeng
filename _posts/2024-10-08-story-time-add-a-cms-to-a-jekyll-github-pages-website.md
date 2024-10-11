@@ -2,13 +2,12 @@
 title: Escaping CMS hell-DecapCMS, Netlify and Sveltia
 date: 2024-10-08T23:01:00
 author: Richard
-image: /static_site.jpeg
+image: /assets/images/static_site.jpeg
 video: ""
 layout: post
 ---
-# Story time- add a CMS to a jekyll GitHub-pages website:
-
-When I created this website I used to create and edit the posts in visual studio code directly with the markdown. This was a bit slow and I had to name each file myself, then add the date to the file name. This gave me more tasks to do with every new post and became a chore. Also I had to make sure the assets such as images matched the file name given in the asset folder. So many things to check ✅ before I finally published a post. As you can imagine this chore did not give me much excitement whenever I had to add a new post.
+# Add a CMS to a jekyll GitHub-pages website
+Story time: When I created this website I used to create and edit the posts in visual studio code directly with the markdown. This was a bit slow and I had to name each file myself, then add the date to the file name. This gave me more tasks to do with every new post and became a chore. Also I had to make sure the assets such as images matched the file name given in the asset folder. So many things to check ✅ before I finally published a post. As you can imagine this chore did not give me much excitement whenever I had to add a new post.
 
 What could I do to remove these mundane tasks anytime I create a post? Well I know, I could use a Content Management System (CMS) to avoid all this pain of creating files. Or so I thought.
 
