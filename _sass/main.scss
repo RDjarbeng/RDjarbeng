@@ -105,13 +105,12 @@ iframe{
   height: auto;
   border-radius: 4px;
   width: 100%; /* Adjust as needed */
-  height: 185px;
   max-height: 185px; 
   object-fit: cover; 
 }
 
 .posts.post-image {
-  max-height: 300px; 
+  max-height: 30vh; 
 }
 
 .post-excerpt {
