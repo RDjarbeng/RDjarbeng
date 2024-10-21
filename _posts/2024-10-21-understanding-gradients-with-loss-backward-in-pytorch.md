@@ -52,9 +52,77 @@ After calling `loss.backward()`, the gradients are stored in `params.grad`.
 ## How Does `loss.backward()` Affect `params.grad`?
 This is a crucial question: How does calling `loss.backward()` on the variable `loss` affect the `params` variable when we call `params.grad`?
 
+When I first saw this, I was thinking maybe they are connected some how. But that didn't satisfy me, I needed answers.
+
 When we compute the loss, we calculate how far off our model's predictions are from the target values. Calling `loss.backward()` triggers the backpropagation process, which computes the gradients of the loss **with respect to each parameter** involved in the calculation — in this case, the `params`.
 
 PyTorch tracks the operations performed on `params` and uses the chain of derivatives to calculate how much each element of `params` should change to reduce the loss.
+
+### How does pytorch actually do this tracking?
+
+To understand how calling `loss.backward()` affects the `coeffs` variable and how gradients are computed, let's break it down step by step.
+
+### Key Concepts:
+
+1. **Tensors with `requires_grad=True`**:
+   When you set `coeffs.requires_grad_()`, it tells PyTorch to **track all operations** involving `coeffs` so that it can compute gradients later. This is key to enabling automatic differentiation.
+
+2. **The Computation Graph**:
+   When you perform operations on tensors (like the element-wise multiplication and summation in `calc_preds`), PyTorch builds a **computation graph** behind the scenes. This graph tracks how each tensor is derived from others and how they relate to each other.
+
+3. **`loss.backward()`**:
+   When you call `loss.backward()`, PyTorch traverses the computation graph **backward**, starting from the `loss` and propagating the gradients to all tensors that were involved in calculating the loss. Since `coeffs` was used in the calculation of `loss` (through `calc_preds`), the gradients with respect to `coeffs` are computed and stored in `coeffs.grad`.
+
+### Step-by-step explanation:
+
+1. **`coeffs.requires_grad_()`**:
+   When you call `coeffs.requires_grad_()`, you’re telling PyTorch: “I want to compute gradients with respect to `coeffs`.” Now, PyTorch will keep track of all operations that involve `coeffs`.
+
+   ```python
+   coeffs.requires_grad_()
+   ```
+
+2. **Loss computation (`calc_loss`)**:
+   - You compute predictions with `calc_preds(coeffs, indeps)`, which involves multiplying `coeffs` by the independent variables `t_indep` and summing across columns (`axis=1`).
+   - You then compute the absolute differences between these predictions and the true dependent values `t_dep`, followed by taking the mean to get the loss.
+
+   ```python
+   loss = calc_loss(coeffs, t_indep, t_dep)
+   ```
+
+   Since `coeffs` was involved in this computation, PyTorch knows it needs to compute gradients with respect to `coeffs`.
+
+3. **Calling `loss.backward()`**:
+   - This is the crucial step. When you call `loss.backward()`, PyTorch calculates the gradients of `loss` with respect to **all tensors that have `requires_grad=True`** and were involved in the computation of `loss`.
+   - In this case, `coeffs` was involved, so PyTorch calculates the gradient of `loss` with respect to `coeffs` (i.e., how small changes in `coeffs` would affect the value of `loss`).
+   - These gradients are stored in `coeffs.grad`.
+
+   ```python
+   loss.backward()
+   ```
+
+4. **Accessing the gradient**:
+   After calling `loss.backward()`, you can access the gradient with `coeffs.grad`. This tells you how much `loss` would change with small changes in `coeffs`. PyTorch accumulates these gradients in `coeffs.grad`, and this is how you know how to adjust `coeffs` to minimize the loss.
+
+   ```python
+   coeffs.grad  # Gradients of loss w.r.t. coeffs
+   ```
+So the guess I made at the beginning that the two variables were connected somehow was in the right direction. 
+The missing link was this computational graph that pytorch keeps track of. _And how does it know which variables to keep track of?_ The ones we specifically tell it to do so with `.requires_grad_()`
+
+> Aside: For pytorch functions that end with the underscore like `.requires_grad_(), sub_` it usually means that the variable is changed in place. Similar to setting `in_place=True` in a pandas dataframe_
+
+
+### Quick recap:
+
+- **`coeffs.requires_grad_()`**: Tells PyTorch to track operations involving `coeffs`.
+- **`loss.backward()`**: Computes gradients for all tensors involved in the calculation of `loss`, including `coeffs`.
+- **`coeffs.grad`**: Stores the gradients of `loss` with respect to `coeffs`.
+
+Even though `loss` and `coeffs` are separate variables, the **computation graph** tracks how `loss` is computed from `coeffs`, allowing PyTorch to compute and store gradients in `coeffs.grad` when `loss.backward()` is called.
+
+
+In this example, after calling `loss.backward()`, `coeffs.grad` will contain the gradients of `loss` with respect to `coeffs`. Now we understand how these two variables are related when calculating our gradients.
 
 ## Breaking Down Gradient Calculation
 Let's break it down into steps:
