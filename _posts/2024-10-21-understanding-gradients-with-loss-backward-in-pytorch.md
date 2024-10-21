@@ -50,7 +50,7 @@ In this example:
 After calling `loss.backward()`, the gradients are stored in `params.grad`.
 
 ## How Does `loss.backward()` Affect `params.grad`?
-This is a crucial question: How does calling `loss.backward()` affect the `params.grad`?
+This is a crucial question: How does calling `loss.backward()` on the variable `loss` affect the `params` variable when we call `params.grad`?
 
 When we compute the loss, we calculate how far off our model's predictions are from the target values. Calling `loss.backward()` triggers the backpropagation process, which computes the gradients of the loss **with respect to each parameter** involved in the calculation — in this case, the `params`.
 
@@ -92,5 +92,7 @@ You may have noticed the division by \( N \). This happens because we’re calcu
 In summary, the `loss.backward()` function calculates the gradients of the loss with respect to each parameter involved in the computation (like the `params`), and those gradients are stored in the `.grad` attribute of the corresponding variables.
 
 This allows PyTorch to update the model parameters using optimization algorithms like gradient descent, ensuring that the model improves over time by minimizing the loss.
+
+This code was tested on a kaggle notebook without a GPU.
 
 _PS: The cover image with a man holding the test tube is AI-generated. THat's what microsoft bing image creator spat out when I described this post._
