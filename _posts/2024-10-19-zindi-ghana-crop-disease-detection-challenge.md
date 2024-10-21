@@ -6,7 +6,7 @@ image: /assets/images/zindi_crop_disease.png
 video: ""
 layout: post
 ---
-### Ghana Crop Disease Detection Challenge
+
 
 Zindi, in partnership with GIZ, Digital Transformation Centre Ghana, Fairforward, and the Responsible AI Lab, has launched the Ghana Crop Disease Detection Challenge. This challenge focuses on building machine learning models to identify diseases affecting tomato, corn, and pepper crops through mobile phone images.
 
