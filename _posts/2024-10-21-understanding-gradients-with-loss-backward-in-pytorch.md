@@ -88,6 +88,55 @@ Let's break it down into steps:
 ## Why Divide by \( N \)?
 You may have noticed the division by \( N \). This happens because we’re calculating the **mean** of the absolute errors, not just the sum. By dividing by \( N \), we ensure that the gradient reflects the averaging in the loss calculation, keeping the gradient magnitudes consistent regardless of the dataset size.
 
+
+## Example in Code
+
+Let's take a simplified example and show what happens:
+
+```python
+import torch
+
+# Example data
+t_indep = torch.tensor([[1.0, 2.0], [3.0, 4.0]], requires_grad=False)
+t_dep = torch.tensor([5.0, 6.0], requires_grad=False)
+coeffs = torch.tensor([0.5, 0.5], requires_grad=True)
+
+# Define prediction and loss functions
+def calc_preds(coeffs, indeps):
+    return (indeps * coeffs).sum(axis=1)
+
+def calc_loss(coeffs, indeps, deps):
+    preds = calc_preds(coeffs, indeps)
+    return torch.abs(preds - deps).mean()
+
+# Calculate the loss
+loss = calc_loss(coeffs, t_indep, t_dep)
+print("Loss:", loss.item())
+
+# Perform backpropagation
+loss.backward()
+
+# Access the gradients
+print("Coefficients:", coeffs)
+print("Gradients:", coeffs.grad)
+```
+Here’s what happens step-by-step:
+
+**Calculate Predictions:**
+For the first row of t_indep: $$ (1.0 \times 0.5) + (2.0 \times 0.5) = 1.5 $$
+For the second row of t_indep: $$ (3.0 \times 0.5) + (4.0 \times 0.5) = 3.5 $$
+
+**Compute Loss (MAE):**
+The loss is the mean absolute error:
+$$ \frac{\left|1.5 - 5.0\right| + \left|3.5 - 6.0\right|}{2} = 3.0 $$
+
+**Backward Pass:**
+PyTorch computes the gradients of the loss with respect to coeffs. For each coeffs_j, the gradient is based on how the loss changes when you slightly modify coeffs_j.
+
+**Gradients in coeffs.grad:**
+After calling loss.backward(), coeffs.grad stores the computed gradients.
+
+
 ## Wrapping Up
 In summary, the `loss.backward()` function calculates the gradients of the loss with respect to each parameter involved in the computation (like the `params`), and those gradients are stored in the `.grad` attribute of the corresponding variables.
 
@@ -95,4 +144,4 @@ This allows PyTorch to update the model parameters using optimization algorithms
 
 This code was tested on a kaggle notebook without a GPU.
 
-_PS: The cover image with a man holding the test tube is AI-generated. THat's what microsoft bing image creator spat out when I described this post._
+_PS: The cover image with a man holding the test tube is AI-generated. That's what microsoft bing image creator spat out when I described this post._
