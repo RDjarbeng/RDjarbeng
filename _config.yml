@@ -13,6 +13,14 @@ linkedin_username: richarddjarbeng
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM # Ensure GitHub Flavored Markdown is supported
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+    span:
+      line_numbers: false
 theme: minima
 future: true
 plugins:
