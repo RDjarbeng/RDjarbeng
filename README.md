@@ -6,7 +6,7 @@ Developer | Computer Engineer
 
 I specialize mostly in web development, machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
 <br/>
-Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
+Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
 
