@@ -24,10 +24,10 @@ kramdown:
 theme: minima
 future: true
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-last-modified-at
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # timezone: Africa/Maputo
 
