@@ -6,7 +6,7 @@ Developer | Computer Engineer
 
 I specialize mostly in web development, machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino.  
 <br/>
-Often use Python, Java, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
+Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
 
@@ -14,7 +14,7 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 
 
 
-* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) where I blog occasionally about non-technical stuff as well.
+* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) where I blog occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
 * 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
 * My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
 * 🤝  Open to collaborating on interesting projects
