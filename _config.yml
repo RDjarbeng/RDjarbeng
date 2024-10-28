@@ -38,7 +38,7 @@ seo:
     machine learning, and IoT devices.
   url: "https://rdjarbeng.github.io/RDjarbeng/"
   twitter: DjarbengRichard
-  logo: "./favicon.ico"
+  logo: "/RDjarbeng/favicon.ico"
   theme_color: "#999"
 # Exclude from processing.
 exclude:
