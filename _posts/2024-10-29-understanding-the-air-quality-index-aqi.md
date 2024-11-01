@@ -16,7 +16,7 @@ Here's a breakdown of the AQI categories:
 
 The AQI uses a color-coded system with six categories, each representing a different level of health concern. These categories are based on index values that range from 0 to 500+. As the AQI value increases, so does the level of air pollution and the associated health risks.
 
-Here's a breakdown of the AQI categories:
+Here's a breakdown of the AQI categories for the United States:
 
 | AQI Category                     | Index Values | Health Concern                         | Color Code |
 |----------------------------------|--------------|----------------------------------------|------------|
@@ -45,7 +45,7 @@ Each of these pollutants has a national air quality standard set by the EPA to p
 
 ## Using the AQI
 
-Understanding the AQI can help you plan your daily activities and take necessary precautions:
+Understanding the AQI can help take necessary precautions:
 
 - **Green (0-50)**: Enjoy outdoor activities without concern.
 - **Yellow (51-100)**: Usually safe, but consider reducing prolonged outdoor exertion if you're unusually sensitive to air pollution.
@@ -181,3 +181,4 @@ Understanding these variations in international AQI standards is crucial for acc
 4. [Centers for Disease Control and Prevention - Air Quality](https://www.cdc.gov/air-quality/about/)
 5. [Wikipedia - Air quality index](https://en.wikipedia.org/wiki/Air_quality_index)
 6. [Canada - the air quality health index](https://www.canada.ca/en/environment-climate-change/services/air-quality-health-index/about.html)
+7.[Standards for air quality in different countries](https://atmotube.com/blog/standards-for-air-quality-indices-in-different-countries-aqi)
