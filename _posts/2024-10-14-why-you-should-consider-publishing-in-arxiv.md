@@ -5,6 +5,8 @@ author: Richard
 image: /assets/images/academic_paper.jpeg
 video: ""
 layout: post
+categories: Research
+tags: [ArXiv, publishing, papers, research papers]
 ---
 I recently came across a video on XploreBio by Dr. Abhishek titled *Why You Should Publish Papers in arXiv Repositories*. It got me thinking about the benefits of preprint publishing, and I wanted to share some of the key takeaways.
 

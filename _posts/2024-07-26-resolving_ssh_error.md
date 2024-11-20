@@ -3,6 +3,8 @@ title: "Resolving SSH 'REMOTE HOST IDENTIFICATION HAS CHANGED' Error"
 date: 2024-07-26
 author: Richard
 image: /assets/images/error_image.webp
+categories: Software Engineering
+tags: [Software engineering, SSH, fixing ssh error]
 ---
 
 If you encounter this error when connecting to your Raspberry Pi via SSH using its IP address or rasperrypi.local:

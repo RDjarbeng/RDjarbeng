@@ -3,6 +3,8 @@ title: "Automating Script Execution on a Raspberry Pi"
 author: Richard
 date: 2024-08-26
 image: /assets/images/raspberrypi.png
+categories: IoT
+tags: [shell scripting, bash, automation, raspberry pi, raspberry pi 4B, linux]
 ---
 
 There are several ways to automate a Raspberry Pi to run a program automatically without needing to start it manually from the terminal. Whether you're using Python, Node.js, or another language, the following methods can help you ensure that your script runs whenever your Raspberry Pi boots up.

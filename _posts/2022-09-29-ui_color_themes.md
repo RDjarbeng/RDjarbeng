@@ -4,6 +4,8 @@ date: 2022-09-29T00:00:00
 author: Richard
 image: https://github.com/user-attachments/assets/aa1035db-077c-439a-971e-5f8a002daaeb
 layout: post
+categories: UI
+tags: [Software engineering, apps, UI/UX, countdown]
 ---
 ![Light mode and dark mode comparison](https://github.com/user-attachments/assets/aa1035db-077c-439a-971e-5f8a002daaeb)
 

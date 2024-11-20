@@ -3,6 +3,8 @@ title: "Lex Fridman and Andrew Ng on Deep learning - Lex Podcast"
 author: Richard
 date: 2024-08-26
 image: /assets/images/andrewng_lex.png
+categories: AI
+tags: [Lex Fridman, Artificial Intelligence, Machine Learning, Lex podcast, Andrew Ng]
 ---
 
 

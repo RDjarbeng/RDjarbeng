@@ -4,6 +4,8 @@ date: 2021-12-27
 layout: post
 author: Richard
 image:  https://github.com/user-attachments/assets/792bcbd5-ec73-43e2-bac5-2328482da1b3
+categories: Software Engineering
+tags: [Software engineering, apps, countdown]
 ---
 
 In December 2021, I embarked on a project to create a simple countdown app to display time left till midnight. Then I decided to count the days leading up to the New Year. Since then, it has evolved into something much more comprehensive and exciting!

@@ -5,6 +5,8 @@ author: Richard
 image: /assets/images/google_weather.png
 video: ""
 layout: post
+categories: AI
+tags: [Google, Weather, Air quality,Artificial Intelligence, Machine Learning, Business, how Google works]
 ---
 ## Temperature and Humidity Data
 

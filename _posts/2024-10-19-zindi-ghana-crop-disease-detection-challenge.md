@@ -5,6 +5,8 @@ author: Richard
 image: /assets/images/zindi_crop_disease.png
 video: ""
 layout: post
+categories: News
+tags: [Hackathons, Ghana, Zindi, Machine Learning, Computer Vision]
 ---
 
 

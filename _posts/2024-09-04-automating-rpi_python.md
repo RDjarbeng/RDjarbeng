@@ -3,6 +3,8 @@ title: "Automating Python Execution on a Raspberry Pi with a virtual environment
 author: Richard
 date: 2024-08-26
 image: /assets/images/just_start.png
+categories: IoT
+tags: [shell scripting, bash, automation, virtual environment,raspberry pi, raspberry pi 4B, linux]
 ---
 
 
