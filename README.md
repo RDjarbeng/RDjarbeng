@@ -40,10 +40,13 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
 ### Socials
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/4ec73e2c-35b2-4134-95e9-98bcac20a044" width="32" height="32" alt="GitHub"/>
+  <a href="https://www.github.com/rdjarbeng/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/a92b5110-4923-43a5-ac96-278dbf4eaf72"
+    width="32" height="32" alt="GitHub"/>
 </a>
   <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/51c8ac52-0c4e-4e3c-b117-8d4126d3e7c8" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/ce226641-4a80-434e-b113-175c3598d5de" width="32" height="32" alt="twitter" /></a>
 </p>
 
 Reach me on X/twitter or on linkedIn.
