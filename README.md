@@ -39,6 +39,11 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RDjarbeng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4ec73e2c-35b2-4134-95e9-98bcac20a044" width="32" height="32" alt="GitHub"/>
+</a>
+  <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/51c8ac52-0c4e-4e3c-b117-8d4126d3e7c8" width="32" height="32" /></a>
+</p>
 
 Reach me on X/twitter or on linkedIn.
