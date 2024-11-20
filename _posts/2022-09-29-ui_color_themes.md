@@ -1,11 +1,10 @@
 ---
-title: "The UI- The Challenge of Color Themes"
-date: 2022-09-29
-layout: post
+title: The UI- The Challenge of Color Themes
+date: 2022-09-29T00:00:00
 author: Richard
 image: https://github.com/user-attachments/assets/aa1035db-077c-439a-971e-5f8a002daaeb
+layout: post
 ---
-
 ![Light mode and dark mode comparison](https://github.com/user-attachments/assets/aa1035db-077c-439a-971e-5f8a002daaeb)
 
 As a developer, my respect for UX and UI has skyrocketed since conducting a small survey on color theme preferences for an application. The results were eye-opening and highlighted the complexities of user preferences.
@@ -25,5 +24,9 @@ While gathering more information to drive our decisions is crucial, what happens
 This brings up an interesting question: In such scenarios, should we rely on our gut instinct and experience to guide our decisions?
 
 I'm curious to hear your thoughts. How do you approach these UX/UI dilemmas in your projects?
+
+---
+
+Working with [Nathaniel Nyakotey](https://www.linkedin.com/in/nathaniel-nyakotey/)
 
 #ux #ui #developerchallenges #userexperience
