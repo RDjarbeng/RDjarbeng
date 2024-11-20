@@ -21,7 +21,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {
           label: 'Author',
@@ -32,6 +31,9 @@ collections:
           search_fields: [display_name],
           value_field: 'short_name',
         }
+      - { label: 'Categories', name: 'categories', widget: 'string', required: false } # Add categories field
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false } # Add tags field (as a list)
+      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'image', widget: 'image', required: false }
       - { label: 'Video', name: 'video', widget: 'file', media_folder: 'assets/videos', public_folder: '/assets/videos', required: false }
