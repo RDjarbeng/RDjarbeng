@@ -190,3 +190,17 @@ a:hover{
 .last_edited{
   font-size: 0.8rem;
 }
+
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.prev-post, .next-post {
+  font-size: 1.2em;
+}
+
+.prev-post a, .next-post a {
+  text-decoration: none;
+}

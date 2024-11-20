@@ -36,3 +36,16 @@ layout: default
 
 <!-- Something's here {{page.author}} -->
 {{ content }}
+
+<div class="post-navigation">
+  <div class="prev-post">
+    {% if page.previous %}
+      <a href="{{ page.previous.url | relative_url }}">« Previous: {{ page.previous.title }}</a>
+    {% endif %}
+  </div>
+  <div class="next-post">
+    {% if page.next %}
+      <a href="{{ page.next.url | relative_url  }}">Next: {{ page.next.title }} »</a>
+    {% endif %}
+  </div>
+</div>
