@@ -197,10 +197,43 @@ a:hover{
   margin-top: 2em;
 }
 
-.prev-post, .next-post {
-  font-size: 1.2em;
+.post-navigation a {
+  text-decoration: none;
+  font-size: 1.1em;
+  color: #007acc; /* Change this color as needed */
 }
 
-.prev-post a, .next-post a {
-  text-decoration: none;
+.prev-post,
+.next-post {
+  max-width: 45%; /* Limit width so titles wrap nicely */
+}
+
+.prev-post a,
+.next-post a {
+  word-wrap: break-word; /* Ensure long titles wrap */
+}
+
+.post-navigation a:hover {
+  text-decoration: underline; /* Optional hover effect */
+}
+
+/* Separator to add space between sections */
+.post-separator {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0; /* Adjust spacing as needed */
+}
+
+/* Styling for related posts */
+.related-posts h3 {
+  margin-bottom: 1em;
+}
+
+.related-posts ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.related-posts li {
+  margin-bottom: 0.5em;
 }
