@@ -31,7 +31,7 @@ collections:
           search_fields: [display_name],
           value_field: 'short_name',
         }
-      - { label: 'Categories', name: 'categories', widget: 'string', required: false } # Add categories field
+      - { label: 'Categories', name: 'categories', widget: 'list', required: false } # Add categories field
       - { label: 'Tags', name: 'tags', widget: 'list', required: false } # Add tags field (as a list)
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
