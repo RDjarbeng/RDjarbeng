@@ -41,14 +41,17 @@ layout: default
 {{ content }}
 <!-- Display categories and tags -->
 <div class="post-meta">
-  Categories: {% for category in page.categories %}
-    <a href="/categories/{{ category }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-
-  Tags: {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-</div>
+  <div class="post-meta">
+    Categories:
+    {% for category in page.categories %}
+      <a href="{{ '/categories/' | relative_url }}{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  
+    Tags:
+    {% for tag in page.tags %}
+      <a href="{{ '/tags/' | relative_url }}{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </div>
 
 <hr class="post-separator">
 <div class="related-posts">
