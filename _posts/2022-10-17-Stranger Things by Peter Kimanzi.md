@@ -4,7 +4,7 @@ date: 2022-10-17
 layout: post
 author: Richard
 image: /assets/images/stranger_things.png
-categories: Software Engineering
+categories: ["Software Engineering"]
 tags: [Stranger Things, Peter Kimanzi, animation, apps, creatures]
 ---
 

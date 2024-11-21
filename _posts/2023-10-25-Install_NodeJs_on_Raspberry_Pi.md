@@ -4,7 +4,7 @@ title: "Install-NodeJs-on-Raspberry-Pi"
 date: 2023-10-25
 author: Richard
 image: /assets/images/old_node_js.png
-categories: Software Engineering
+categories: ["Software Engineering"]
 tags: [NodeJs, raspberry pi, node version install]
 ---
 

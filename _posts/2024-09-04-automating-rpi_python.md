@@ -1,13 +1,19 @@
 ---
-title: "Automating Python Execution on a Raspberry Pi with a virtual environment"
+date: 2024-08-26T00:00:00
 author: Richard
-date: 2024-08-26
+categories:
+  - IoT
+tags:
+  - shell scripting
+  - bash
+  - automation
+  - virtual environment
+  - raspberry pi
+  - raspberry pi 4B
+  - linux
+title: Automating Python Execution on a Raspberry Pi with a virtual environment
 image: /assets/images/just_start.png
-categories: IoT
-tags: [shell scripting, bash, automation, virtual environment,raspberry pi, raspberry pi 4B, linux]
 ---
-
-
 In this guide, you will learn how to automate the execution of a Python script on your Raspberry Pi using a `systemd` service. This can be particularly useful for running scripts automatically at startup without any manual intervention.
 
 ## Step 1: Create a systemd Service File
@@ -39,7 +45,9 @@ WantedBy=multi-user.target
 ```
 
 To exit nano after pasting use `ctrl+x` choose **yes (Y)** when asked to save modified buffer. Hit the **Enter** key to confirm the file name and you should be back in the terminal.
+
 ### Explanation:
+
 - **User**: This specifies the user under which the script will run (replace `iot` with your actual username if different).
 - **WorkingDirectory**: The directory where your script and virtual environment are located.
 - **ExecStart**: This is the command to start your script. It first activates the virtual environment and then runs the Python script.

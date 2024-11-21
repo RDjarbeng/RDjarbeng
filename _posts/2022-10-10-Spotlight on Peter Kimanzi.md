@@ -4,7 +4,7 @@ date: 2022-10-10
 layout: post
 author: Richard
 image: /assets/images/peterKimanziPortfolio.png
-categories: Software Engineering
+categories: ["Software Engineering"]
 tags: [Software engineering, Peter Kimanzi, web developer, Kenya, html, css, js]
 ---
 

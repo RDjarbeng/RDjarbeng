@@ -5,7 +5,7 @@ author: Richard
 image: /assets/images/static_site.jpeg
 video: ""
 layout: post
-categories: Software Engineering
+categories: ["Software Engineering"]
 tags: [CMS, DecapCMS, Sveltia, Netlify, Software engineering, web development]
 ---
 # Add a CMS to a jekyll GitHub-pages website

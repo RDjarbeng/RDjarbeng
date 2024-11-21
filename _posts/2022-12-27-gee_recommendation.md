@@ -4,7 +4,7 @@ date: 2022-12-27
 layout: post
 author: Richard
 image: https://github.com/user-attachments/assets/213b0937-d8b0-4b12-82fc-9220c977fd39
-categories: GIS
+categories: ["GIS"]
 tags: [Google Earth Engine, satellite, satellite imagery,GEE]
 ---
 

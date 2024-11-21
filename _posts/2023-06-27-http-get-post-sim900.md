@@ -3,7 +3,7 @@ layout: post
 title: "GSM module HTTP GET & POST request using arduino microcontroller and SIM900"
 date: 2023-06-27
 author: Richard
-categories: IoT
+categories: ["IoT"]
 tags: [HTTP, HTTP verbs, arduino, GSM module, SIM900, 2G, request]
 ---
 

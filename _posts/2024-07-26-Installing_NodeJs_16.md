@@ -3,7 +3,7 @@ title: "Installing and removing Node.js on linux-based Systems-for raspberry pi 
 date: 2024-07-26
 author: Richard
 image: /assets/images/nodejs_2024.png
-categories: IoT
+categories: ["IoT"]
 tags: [Nodejs, installation, raspberry pi, raspberry pi 4B, linux]
 ---
 

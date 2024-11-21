@@ -5,7 +5,7 @@ author: Richard
 image: /assets/images/weather_post/wunderground.png
 video: ""
 layout: post
-categories: Environment
+categories: ["Environment"]
 tags: [Climate data, africa, data for climate, websites for environmental data, climate data in Africa]
 ---
 When working on climate research or environmental projects in Africa, having access to reliable weather and climate data is essential. Fortunately, there are several websites where you can find both historical and current climate data for Africa. Below are some of the top resources to help you access this valuable information.

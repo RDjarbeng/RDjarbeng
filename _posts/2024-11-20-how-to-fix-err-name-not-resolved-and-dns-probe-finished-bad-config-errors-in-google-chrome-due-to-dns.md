@@ -5,7 +5,7 @@ author: Richard
 image: /assets/images/dns_post/dns_error.webp
 video: ""
 layout: post
-categories: Help
+categories: ["Help"]
 tags: [Fix DNS errors, No internet errors, DNS, fix]
 ---
 If you're encountering the **ERR_NAME_NOT_RESOLVED** or **DNS_PROBE_FINISHED_BAD_CONFIG** errors in Google Chrome, these are typically caused by issues with your DNS (Domain Name System) server. 
