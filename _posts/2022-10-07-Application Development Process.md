@@ -1,5 +1,5 @@
 ---
-title: " App Development Process: From Concept to Launch"
+title: "App Development Process: From Concept to Launch"
 date: 2022-10-07
 layout: post
 author: Richard
