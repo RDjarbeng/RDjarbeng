@@ -237,3 +237,88 @@ a:hover{
 .related-posts li {
   margin-bottom: 0.5em;
 }
+
+/* Style for search input box */
+.search-box {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+
+/* Style for post date */
+#results-container li span {
+  display: block;
+  font-size: 14px;
+  color: #666; /* Lighter color for date */
+}
+
+/* Highlighted search term (optional) */
+.highlighted {
+  background-color: yellow; /* Highlight color */
+}
+
+/* Flex container for aligning the post count and search box */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Style for search input box */
+.search-box {
+  width: 250px; /* Adjust width as needed */
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for search results container */
+#results-container {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Style for each search result */
+#results-container li {
+  background-color: #f9f9f9; /* Light background color */
+  border: 1px solid #ddd;     /* Light border */
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+/* Hover effect on search results */
+#results-container li a {
+  text-decoration: none;
+}
+
+#results-container li a:hover {
+  text-decoration: underline;
+}
+
+/* Highlighted search term (optional) */
+.highlighted {
+  background-color: yellow; /* Highlight color */
+}
+
+.categories-list, .tags-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
+
+.categories-list li, .tags-list li {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.categories-list li:hover, .tags-list li:hover {
+  background-color: #e6f7ff;
+}
