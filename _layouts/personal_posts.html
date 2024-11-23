@@ -13,7 +13,7 @@ permalink: /personal/
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h3>
-      {% if post.image %}
+      {% if post.image and post.image.size > 0 %}
         <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image posts">
         {% endif %}
       <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
