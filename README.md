@@ -14,7 +14,7 @@ Contributor to the [complete machine learning package](https://github.com/Nyandw
 
 
 
-* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) where I blog occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
+* 🚀  I'm currently working on building my [personal website](https://rdjarbeng.github.io/RDjarbeng/) where I [blog](https://rdjarbeng.github.io/RDjarbeng/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
 * 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
 * My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
 * 🤝  Open to collaborating on interesting projects
