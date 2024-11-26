@@ -89,7 +89,7 @@ iframe{
   }
 }
 
-.post-card h4 {
+.post-card h4, .post-card h3{
   display: -webkit-box;
   -webkit-line-clamp: 2; /* Number of lines to show */
   -webkit-box-orient: vertical;
@@ -109,9 +109,9 @@ iframe{
   object-fit: cover; 
 }
 
-.posts.post-image {
-  max-height: 40vh; 
-}
+// .posts.post-image {
+//   max-height: 40vh; 
+// }
 
 .post-excerpt {
   font-size: 1.1rem;
