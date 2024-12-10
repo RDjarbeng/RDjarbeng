@@ -21,11 +21,8 @@ Carnegie Mellon University Africa (CMU-Africa), located in Rwanda, offers three 
 The MSIT program is a **16-20 month interdisciplinary degree** that blends technology, business, and innovation. Students gain expertise in areas such as:
 
 - Data science
-
 - Cybersecurity
-
 - Software engineering
-
 - Networks
 
 A key feature of the program is its focus on practical experience, with students engaging in over **900 hours of industry interaction** to tackle real-world problems. This approach ensures that graduates are prepared to contribute effectively in their careers.
@@ -39,11 +36,8 @@ A key feature of the program is its focus on practical experience, with students
 The MS ECE program is a **10-16 month intensive degree** covering a broad range of fields, from nanotechnology to large-scale systems. Students delve into applications such as:
 
 - Communications and networking
-
 - Robotics and computer vision
-
 - Energy systems and Internet of Things (IoT)
-
 - Data analytics and cybersecurity
 
 This program suits those interested in developing technology solutions for current and future challenges. It combines foundational courses with hands-on projects, preparing students for leadership roles in engineering. An **Advanced Study option (MS-AD)** is also available for deeper specialization.
@@ -57,13 +51,9 @@ This program suits those interested in developing technology solutions for curre
 The MS EAI program is a **16-20 month degree** that enables engineers to design AI-driven solutions for global issues. It integrates artificial intelligence, machine learning, and data science with engineering disciplines to address sectors such as:
 
 - Transportation
-
 - Energy
-
 - Agriculture
-
 - Health
-
 - Climate
 
 Students complete **144 units of coursework**, including core courses in AI, machine learning, data analytics, and system design, along with electives tailored to their engineering focus. This curriculum provides both theoretical knowledge and practical skills.
@@ -89,6 +79,8 @@ Admissions typically open in September and end in January.
 **Benefits of Applying Early:** Applicants who apply by the **early admission deadline of December 15th, 2024,** will be considered for a free Duolingo Coupon. The final application deadline is January 15th, 2025
 
 In case you read this after January 2025, the admission intake will probably follow similar dates for the next year.
+
+_Disclaimer: The writer is an alumnus of Carnegie Mellon University Africa._
 
 References:
 [ Carnegie Mellon University Africa website](https://www.africa.engineering.cmu.edu/academics/programs/index.html)
