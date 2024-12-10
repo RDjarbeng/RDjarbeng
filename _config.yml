@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-archives
+  - jekyll-redirect-from
 
 jekyll-archives:
   enabled:
@@ -51,6 +52,7 @@ seo:
   twitter: DjarbengRichard
   logo: "/RDjarbeng/favicon.ico"
   theme_color: "#999"
+slugify: default #to deal with spaces
 # Exclude from processing.
 exclude:
   - Gemfile
@@ -60,7 +62,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
+include:
+  - redirects.json
 # Collections
 collections:
   projects:
@@ -86,6 +89,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: /:title/ # Set permalink for posts globally to /title/
   - scope:
       path: ""
     values:
