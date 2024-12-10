@@ -6,7 +6,6 @@ fetch('/RDjarbeng/redirects.json')
 
     const redirect = redirects.find(r => {
       const normalizedOldUrl = decodeURIComponent(r.old_url).replace(/\.html$/, '').toLowerCase();; // Decode and remove .html
-      console.log(normalizedOldUrl)
       return normalizedOldUrl === normalizedCurrentPath;
     });
 
