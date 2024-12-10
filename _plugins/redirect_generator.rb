@@ -13,12 +13,14 @@ module Jekyll
         post.data['redirect_from'] << category_url
         post.data['redirect_from'] << no_category_url
 
+        # Add a dummy html? method to prevent errors
+        def post.html?
+          true
+        end
+
         # Debug output
         puts "Post: #{post.data['title']}"
         puts "Redirects: #{post.data['redirect_from']}"
-
-        # Re-register the post with modified front matter
-        site.pages << post if !site.pages.include?(post)
       end
     end
   end
