@@ -16,6 +16,8 @@ layout: post
 ---
 Jeremy Howard, a prominent figure in artificial intelligence and healthcare innovation, highlights a critical issue in global healthcare: developing nations have less than 10% of the medical experts they need. This severe shortage means most patients lack access to proper medical diagnostics, while existing physicians are overwhelmed with work.
 
+![Doctor and patients]({{ site.baseurl }}/assets/images/hr_constraints_africa.png)
+
 ## The Scale of the Problem
 
 In many developing countries, the healthcare situation is dire. Take Nigeria as an example - the country would need to multiply its current physician workforce by 12 just to reach standard healthcare coverage levels. This would require an investment of US$51 billion, which is ten times their current annual healthcare budget [World Economic Forum Report, 2014].
@@ -29,7 +31,6 @@ Howard proposes a transformative approach: combining medical data sources with e
 The solution leverages two key components:
 
 1. **Automated Diagnostics**: Advanced systems analyze patient data to provide initial assessments and recommendations
-
 2. **Resource Optimization**: Medical experts can focus on complex cases while routine matters are handled by AI-assisted systems
 
 ## Real Impact
@@ -37,9 +38,7 @@ The solution leverages two key components:
 This approach is already showing results in various implementations:
 
 - **Remote Healthcare**: AI-powered diagnostic tools enable healthcare workers in remote areas to provide better care
-
 - **Efficient Triage**: Automated systems help prioritize cases, ensuring critical patients receive immediate attention
-
 - **Standardized Care**: Digital protocols help maintain consistent quality across different healthcare facilities
 
 ## Looking Forward
