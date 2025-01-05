@@ -29,6 +29,8 @@ A key feature of the program is its focus on practical experience, with students
 
 [Learn more about MSIT](https://www.africa.engineering.cmu.edu/academics/programs/msit.html)
 
+![CMU africa career fair]({{ site.baseurl }}/assets/images/CMU_africa_brochure.png)
+
 ---
 
 ## **Master of Science in Electrical and Computer Engineering (MS ECE)**
