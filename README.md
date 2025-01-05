@@ -37,6 +37,8 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+## Contact
+Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
 
 ### Socials
 
@@ -52,5 +54,3 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
 
 Reach me on X/twitter or on linkedIn.
 
-## Contact
-Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
