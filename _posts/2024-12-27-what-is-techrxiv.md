@@ -8,8 +8,8 @@ tags:
   - academics
   - papers
 title: What is TechRxiv?
-image: ""
-video: ""
+image: /assets/images/techrxiv/techrxiv_screenshot_good.png
+video: ''
 layout: post
 ---
 **[TechRxiv](https://www.techrxiv.org)**  is an open, moderated preprint server designed for sharing unpublished research in fields such as electrical engineering, computer science, and related technology disciplines. It was launched in 2020 by the **Institute of Electrical and Electronics Engineers (IEEE)** to facilitate rapid dissemination of research findings, encourage collaboration, and provide a platform for researchers to share early results before formal peer review and publication. 
@@ -17,6 +17,10 @@ layout: post
 Submissions to TechRxiv are **not peer-reviewed** but are screened for plagiarism and inappropriate content. It is a free, publicly accessible platform where authors can post their work without any fees, and readers can access it freely.
 
 You can explore TechRxiv [here](https://www.techrxiv.org).
+
+
+![Techrxiv screenshot]({{ site.baseurl }}/assets/images/techrxiv/techrxiv_screenshot_good.png)
+
 
 ---
 
@@ -53,3 +57,7 @@ These repositories serve as platforms for researchers across various domains to 
 --- 
 
 This post provides an overview of TechRxiv and its relation to similar platforms like arXiv. If you're involved in academic research or engineering fields, platforms like these can be invaluable for sharing your work with the world.
+
+Sidenote: When I was writing this post some kind of glitch happened and the TechRxiv page loaded without the css taking us back to the 90s. This is such a rare occurence, of course I took a screenshot and added it beneath this post🙂.
+
+![Techrxiv glitch screenshot]({{ site.baseurl }}/assets/images/techrxiv/techrxiv_screenshot_glitch.png)
