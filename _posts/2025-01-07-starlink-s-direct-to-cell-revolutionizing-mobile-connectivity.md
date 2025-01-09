@@ -44,7 +44,7 @@ Starlink satellites equipped with Direct to Cell technology act as roaming partn
 
 The satellites operate in low Earth orbit (LEO), which reduces latency compared to traditional satellite systems. This ensures faster and more reliable connections for users.
 
-![How starlink dtc works diagram](blob:https://rdjarbeng.github.io/fe458edd-fe01-47c1-88d6-d69913334d1f "Starlink satellites with Direct to Cell capability")
+![How starlink dtc works diagram](blob:https://rdjarbeng.github.io/rdjarbeng/fe458edd-fe01-47c1-88d6-d69913334d1f "Starlink satellites with Direct to Cell capability")
 
 ## **Current Availability and Rollout**
 
