@@ -11,7 +11,7 @@ tags:
   - Tech
   - Connectivity
 title: "Starlink's Direct to Cell: Revolutionizing Mobile Connectivity"
-image: ''
+image: /assets/images/starlink_direct_to_cell.png
 video: ''
 layout: post
 ---
@@ -24,7 +24,6 @@ Elon musk tweeted: "Starlink’s new system enables Internet connectivity for yo
 It just works."
 
 ![Screenshot of Elon Musk's tweet of direct to cell service](blob:https://rdjarbeng.github.io/315c4d8e-856b-48ec-9231-8f5d05badde1)
-
 
 ## **What is Starlink Direct to Cell?**
 
