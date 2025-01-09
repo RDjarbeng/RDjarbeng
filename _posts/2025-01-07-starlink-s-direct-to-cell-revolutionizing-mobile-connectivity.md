@@ -91,15 +91,15 @@ By combining cutting-edge satellite technology with existing mobile infrastructu
 
 ### References
 
-1. [Starlink Business | Direct To Cell](https://www.starlink.com/business/direct-to-cell)
+1. [Starlink Business - Direct To Cell](https://www.starlink.com/business/direct-to-cell)
 
-2. [Satellite Internet | Starlink Direct to Cell](https://www.satelliteinternet.com/resources/starlink-direct-to-cell/)
+2. [Satellite Internet - Starlink Direct to Cell](https://www.satelliteinternet.com/resources/starlink-direct-to-cell/)
 
-3. [SpaceNews | SpaceX Gets Conditional Approval](https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/)
+3. [SpaceNews - SpaceX Gets Conditional Approval](https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/)
 
-4. [The Register | Ukraine to Get Starlink Direct-to-Cell](https://www.theregister.com/2025/01/01/starlink_directtocell_ukraine/)
+4. [The Register - Ukraine to Get Starlink Direct-to-Cell](https://www.theregister.com/2025/01/01/starlink_directtocell_ukraine/)
 
-5. [Prysmian | Starlink Preparing Satellite-Based 4G Service](https://www.prysmian.com/en/insight/telecoms/nexst/starlink-4g-mobile-service)
+5. [Prysmian - Starlink Preparing Satellite-Based 4G Service](https://www.prysmian.com/en/insight/telecoms/nexst/starlink-4g-mobile-service)
 
 Citations:
 
