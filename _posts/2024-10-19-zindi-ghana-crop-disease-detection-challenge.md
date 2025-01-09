@@ -2,7 +2,7 @@
 title: Zindi -Ghana Crop Disease Detection Challenge
 date: 2024-10-19T22:19:00
 author: Richard
-image: /assets/images/zindi_crop_disease.png
+image: /RDjarbeng/assets/images/zindi_crop_disease.png
 video: ""
 layout: post
 categories: ["News"]
@@ -12,7 +12,7 @@ tags: [Hackathons, Ghana, Zindi, Machine Learning, Computer Vision]
 
 Zindi, in partnership with GIZ, Digital Transformation Centre Ghana, Fairforward, and the Responsible AI Lab, has launched the Ghana Crop Disease Detection Challenge. This challenge focuses on building machine learning models to identify diseases affecting tomato, corn, and pepper crops through mobile phone images.
 
-![Zindi Ghana hackathon page ]({{ site.baseurl }}/assets/images/zindi_crop_disease.png)
+![Zindi Ghana hackathon page ](/RDjarbeng/assets/images/zindi_crop_disease.png)
 
 In Sub-Saharan Africa, crop diseases and pests reduce yields by up to 40% annually, significantly impacting food security and the region’s economy. This competition aims to create models that can accurately predict all diseases present in images of these crops. Participants must build models that can generalize well, even when encountering diseases not seen in the training set, and operate efficiently on edge devices, such as entry-level smartphones used by most subsistence farmers in Africa.
 

@@ -2,7 +2,7 @@
 title: Dr Jekyll & Ruby -building Richard's personal website
 date: 2024-07-22T00:00:00
 author: Richard
-image: /assets/images/jekyll_cyber.jpeg
+image: /RDjarbeng/assets/images/jekyll_cyber.jpeg
 layout: post
 categories: ["Software Engineering"]
 tags: [Ruby, jekyll, website development, Richard Djarbeng's website]
@@ -24,7 +24,7 @@ The site I had in mind was suppose to be simple in functionality
 
 Since I was interested in learning Ruby so I thought why not use that. That was when the trouble began.
 
-![jekyll_cyber_theme by RD ]({{ site.baseurl }}/assets/images/jekyll_cyber.jpeg)
+![jekyll_cyber_theme by RD ](/RDjarbeng/assets/images/jekyll_cyber.jpeg)
 
 ## Jekyll
 
@@ -94,7 +94,7 @@ If you're reading this on my personal website then just know that the evil Dr Je
 
 ### Edit a few moments later:
 
-![Man surprised staring at laptop]({{ site.baseurl }}/assets/images/man_surprised.png)
+![Man surprised staring at laptop](/RDjarbeng/assets/images/man_surprised.png)
 
 So I realized there are usually 2 builds which start and one of them usually succeeds and the other doesn't. I was using the 'jekyll-gh-pages' by before switching to just jekyll. 
 ![workflow in github](https://github.com/user-attachments/assets/a10a3c67-2d2b-42c9-9c87-848868aa4fb0)

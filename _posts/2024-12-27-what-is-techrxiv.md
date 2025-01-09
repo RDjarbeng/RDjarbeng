@@ -8,7 +8,7 @@ tags:
   - academics
   - papers
 title: What is TechRxiv?
-image: /assets/images/techrxiv/techrxiv_screenshot_good.png
+image: /RDjarbeng/assets/images/techrxiv/techrxiv_screenshot_good.png
 video: ''
 layout: post
 ---
@@ -19,7 +19,7 @@ Submissions to TechRxiv are **not peer-reviewed** but are screened for plagiaris
 You can explore TechRxiv [here](https://www.techrxiv.org).
 
 
-![Techrxiv screenshot]({{ site.baseurl }}/assets/images/techrxiv/techrxiv_screenshot_good.png)
+![Techrxiv screenshot](/RDjarbeng/assets/images/techrxiv/techrxiv_screenshot_good.png)
 
 
 ---
@@ -60,4 +60,4 @@ This post provides an overview of TechRxiv and its relation to similar platforms
 
 Sidenote: When I was writing this post some kind of glitch happened and the TechRxiv page loaded without the css taking us back to the 90s. This is such a rare occurence, of course I took a screenshot and added it beneath this post🙂.
 
-![Techrxiv glitch screenshot]({{ site.baseurl }}/assets/images/techrxiv/techrxiv_screenshot_glitch.png)
+![Techrxiv glitch screenshot](/RDjarbeng/assets/images/techrxiv/techrxiv_screenshot_glitch.png)

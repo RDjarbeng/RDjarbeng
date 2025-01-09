@@ -7,9 +7,9 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.richarddjarbeng.workers.dev/
   
-display_url: https://rdjarbeng.github.io/RDjarbeng
+site_url: https://rdjarbeng.github.io/RDjarbeng/
 media_folder: "assets/images"  # Media files (images) will be stored here
-public_folder: "/assets/images"  # URL for media files
+public_folder: "/RDjarbeng/assets/images"  # URL for media files
 
 collections:
   # Blog posts
