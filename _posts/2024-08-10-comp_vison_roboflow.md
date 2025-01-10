@@ -2,13 +2,13 @@
 title: "Learn to Build Computer Vision Models with Roboflow"
 author: Richard
 date: 2024-08-10
-image: /assets/images/comp_vision_roboflow.jpeg
+image: /RDjarbeng/assets/images/comp_vision_roboflow.jpeg
 categories: ["Computer Vision"]
 tags: [Computer Vision, Roboflow, Artificial Intelligence, Machine Learning, ]
 ---
 
 Are you looking to learn how to build a computer vision model?
-![Screenshot of roboflow computer vision notebooks on GitHub]({{ site.baseurl }}/assets/images/comp_vision_roboflow.jpeg)
+![Screenshot of roboflow computer vision notebooks on GitHub](/RDjarbeng/assets/images/comp_vision_roboflow.jpeg)
 High-quality computer vision tutorials can be found on GitHub, thanks to Piotr Skalski and the Roboflow team.
 
 ### Step-by-Step Guides to Build:

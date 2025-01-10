@@ -2,7 +2,7 @@
 title: Understanding the Air Quality Index (AQI)
 date: 2024-10-29T10:11:00
 author: Richard
-image: /assets/images/air_quality/aqi.png
+image: /RDjarbeng/assets/images/air_quality/aqi.png
 video: ""
 layout: post
 categories: ["Environment"]
@@ -29,7 +29,7 @@ Here's a breakdown of the AQI categories for the United States:
 | Very Unhealthy                    | 201-300     | Health alert for everyone              | Purple     |
 | Hazardous                         | 301+        | Emergency conditions                   | Maroon     |
 
-![AQI table with colors ]({{ site.baseurl }}/assets/images/air_quality/aqi.png)
+![AQI table with colors ](/RDjarbeng/assets/images/air_quality/aqi.png)
 
 _[Image source](https://www.airnow.gov/aqi/aqi-basics/)_
 

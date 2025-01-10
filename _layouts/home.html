@@ -23,7 +23,7 @@ layout: default
             {{ post.title | escape }}
           </h4>
           {% if post.image and post.image.size > 0 %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
           {% endif %}
           <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
           <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
@@ -47,7 +47,7 @@ layout: default
             {{ personal.title | escape }}
           </h4>
           {% if personal.image and personal.image.size > 0 %}
-          <img src="{{ personal.image | relative_url }}" alt="{{ personal.title }}" class="post-image">
+          <img src="{{ personal.image }}" alt="{{ personal.title }}" class="post-image">
           {% endif %}
           <p class="post-excerpt">{{ personal.excerpt | strip_html | truncatewords: 30 }}</p>
           <p class="post-meta">{{ personal.date | date: "%B %-d, %Y" }}</p>

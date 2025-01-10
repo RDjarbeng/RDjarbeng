@@ -2,14 +2,14 @@
 title: "Comparison of Static Site Hosting Options"
 date: 2024-08-01
 author: Richard
-image: /assets/images/static_site.jpeg
+image: /RDjarbeng/assets/images/static_site.jpeg
 categories: ["Software development"]
 tags: [Software engineering, dev ops, cloud hosting, hosting providers, comparison]
 ---
 
 When it comes to hosting static sites, there are numerous options available, to make an informed decision, here’s a comparison of some of the most popular static site hosting providers. This table summarizes the key features of each provider, so you can quickly see which one might be the best fit for your needs.
 
-<!-- ![Static site's on cloud, glowing image with logos]({{ site.baseurl }}/assets/images/static_site.jpeg) -->
+<!-- ![Static site's on cloud, glowing image with logos](/RDjarbeng/assets/images/static_site.jpeg) -->
 
 
 
@@ -41,7 +41,7 @@ Note: Features and pricing may change over time. Always check the provider's cur
 5. Additional features like serverless functions, forms, etc.
 6. Support for your specific static site generator
 
-<img src=" {{ site.baseurl }}/assets/images/static_site.jpeg " alt="drawing" height ="400px" />
+<img src="/RDjarbeng/assets/images/static_site.jpeg" alt="drawing" height ="400px" />
 
 ## What are Static Sites?
 

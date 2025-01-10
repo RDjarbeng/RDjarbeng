@@ -11,7 +11,7 @@ layout: default
         <div class="post-card">
           <h3>{{ post.title | escape }}</h3>
           {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image posts">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image posts">
           {% endif %}
           <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
           <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>

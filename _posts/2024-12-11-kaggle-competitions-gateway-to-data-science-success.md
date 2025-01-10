@@ -9,7 +9,7 @@ tags:
   - AI
   - competition
 title: "Kaggle competitions: Gateway to Data Science Success"
-image: /assets/images/kaggle_competitions.png
+image: /RDjarbeng/assets/images/kaggle_competitions.png
 video: ""
 layout: post
 ---
@@ -19,7 +19,7 @@ Imagine a place where data scientists from around the world gather to solve real
 
 Kaggle competitions are online challenges where participants tackle real-world data problems. Companies and organizations provide datasets and a problem to solve, while data scientists and machine learning enthusiasts compete to create the best solutions.
 
-![Kaggle competitions page screenshot]({{ site.baseurl }}/assets/images/kaggle_competitions.png)
+![Kaggle competitions page screenshot](/RDjarbeng/assets/images/kaggle_competitions.png)
 
 ## Career-Changing Benefits
 
