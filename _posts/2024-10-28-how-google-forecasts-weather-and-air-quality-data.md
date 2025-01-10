@@ -2,7 +2,7 @@
 title: How Google forecasts Weather and Air Quality Data
 date: 2024-10-28T10:38:00
 author: Richard
-image: /assets/images/google_weather.png
+image: /RDjarbeng/assets/images/google_weather.png
 video: ""
 layout: post
 categories: ["AI"]
@@ -20,7 +20,7 @@ Google's weather forecasts are created using an internal forecasting system that
 - [Met Office](https://www.metoffice.gov.uk/)
 - [Unidata](https://www.unidata.ucar.edu/)
 
-![google search for weather ]({{ site.baseurl }}/assets/images/google_weather.png)
+![google search for weather ](/RDjarbeng/assets/images/google_weather.png)
 
 ## Google Nowcast
 

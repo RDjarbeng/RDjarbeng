@@ -2,7 +2,7 @@
 title: " Can AI bring images to life?"
 author: Richard
 date: 2024-08-16
-image: /assets/images/bees_luma.jpeg
+image: /RDjarbeng/assets/images/bees_luma.jpeg
 categories: ["AI"]
 tags: [Generative AI, luma ai, Artificial Intelligence, animated images]
 ---
@@ -14,7 +14,7 @@ Limits of Generative AI: My Experience with Luma AI and Virtual Bees.
 ### What I Did
 After signing up for a Luma Labs account, I uploaded my chosen image to their platform. Below is the input image I used:
 
-![Many bees with one large bee or flying insect in the background]({{ site.baseurl }}/assets/images/bees_luma.jpeg)
+![Many bees with one large bee or flying insect in the background](/RDjarbeng/assets/images/bees_luma.jpeg)
 
 I then entered this simple prompt:
 

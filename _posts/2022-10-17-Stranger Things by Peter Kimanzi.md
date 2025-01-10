@@ -3,7 +3,7 @@ title: "Stranger Things by Peter Kimanzi"
 date: 2022-10-17
 layout: post
 author: Richard
-image: /assets/images/stranger_things.png
+image: /RDjarbeng/assets/images/stranger_things.png
 categories: ["Software Engineering"]
 tags: [Stranger Things, Peter Kimanzi, animation, apps, creatures]
 ---
