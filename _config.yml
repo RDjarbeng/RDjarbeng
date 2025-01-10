@@ -41,7 +41,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-# timezone: Africa/Maputo
+timezone: Africa/Harare
 
 seo:
   title: "Richard Djarbeng's website- Web, Internet of things and Data -"
