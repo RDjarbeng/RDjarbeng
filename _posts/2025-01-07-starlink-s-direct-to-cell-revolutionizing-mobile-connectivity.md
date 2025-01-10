@@ -10,7 +10,7 @@ tags:
   - SpaceX
   - Tech
   - Connectivity
-title: "Starlink's Direct to Cell: Revolutionizing Mobile Connectivity"
+title: "Starlink's Direct to Cell: Improving Mobile Connectivity"
 image: /assets/images/starlink_direct_to_cell.png
 video: ''
 layout: post
