@@ -122,19 +122,23 @@ iframe{
   text-overflow: ellipsis;
 }
 
+.post-meta-categories-container {
+  display: flex;
+  justify-content: space-between; /* Ensures meta is on the left and categories on the right */
+  align-items: center; /* Aligns items vertically in the center */
+  margin-top: auto; /* Pushes this section to the bottom of the card if needed */
+}
+
 .post-meta {
   font-size: 0.85rem;
   color: $grey;
   margin-bottom: 0px;
-  margin-top: auto; /* Pushes the date to the bottom */
 }
 
 .post-categories {
   font-size: 0.85rem;
   color: $grey;
   margin-bottom: 0px;
-  margin-top: auto; 
-  margin-left: auto;
 }
 
 .about-link {
