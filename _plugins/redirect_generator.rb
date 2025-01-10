@@ -19,8 +19,8 @@ module Jekyll
         end
 
         # Debug output
-        puts "Post: #{post.data['title']}"
-        puts "Redirects: #{post.data['redirect_from']}"
+        # puts "Post: #{post.data['title']}"
+        # puts "Redirects: #{post.data['redirect_from']}"
       end
     end
   end
