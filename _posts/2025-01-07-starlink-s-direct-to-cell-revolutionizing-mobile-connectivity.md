@@ -17,13 +17,13 @@ layout: post
 ---
 In a groundbreaking move, SpaceX’s Starlink has introduced its **Direct to Cell** service, a satellite-based mobile connectivity solution that eliminates the need for traditional cell towers. This innovative technology enables standard LTE-compatible smartphones to connect directly to Starlink satellites, ensuring seamless communication even in the most remote areas of the world.
 
-![Screenshot of starlink direct to cell](/assets/images/starlink_direct_to_cell.png "Starlink direct to cell website")
+![Screenshot of starlink direct to cell](/RDjarbeng/assets/images/starlink_direct_to_cell.png "Starlink direct to cell website")
 
 Elon musk tweeted: "Starlink’s new system enables Internet connectivity for your mobile phone with no extra equipment or special app. 
 
 It just works."
 
-![Screenshot of Elon Musk's tweet of direct to cell service](blob:https://rdjarbeng.github.io/315c4d8e-856b-48ec-9231-8f5d05badde1)
+![Screenshot of Elon Musk's tweet of direct to cell service](/RDjarbeng/assets/images/Elon_Musk_tweet_dtc.png "Elon Musk's tweet about starlink direct to cell")
 
 ## **What is Starlink Direct to Cell?**
 
@@ -44,7 +44,7 @@ Starlink satellites equipped with Direct to Cell technology act as roaming partn
 
 The satellites operate in low Earth orbit (LEO), which reduces latency compared to traditional satellite systems. This ensures faster and more reliable connections for users.
 
-![How starlink dtc works diagram](blob:https://rdjarbeng.github.io/rdjarbeng/fe458edd-fe01-47c1-88d6-d69913334d1f "Starlink satellites with Direct to Cell capability")
+![How starlink dtc works diagram](/RDjarbeng/assets/images/starlink_dtc_image.png "Starlink satellites with Direct to Cell capability")
 
 ## **Current Availability and Rollout**
 
