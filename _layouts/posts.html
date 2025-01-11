@@ -6,14 +6,14 @@ title: Blog
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TW73L4TE58"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
 
   gtag('config', 'G-TW73L4TE58');
 </script>
 <div class="header-container">
   <h1>{{ site.posts | size }} Posts</h1>
-  
+
   <!-- Search box aligned to the right -->
   <div id="search-container">
     <input type="text" id="search-input" placeholder="Search posts..." class="search-box">
@@ -21,8 +21,8 @@ title: Blog
 </div>
 <!-- Categories and Tags Section -->
 <div class="categories-tags-container">
-    <a href="/RDjarbeng/categories/">Categories</a>
-    <a href="/RDjarbeng/tags/">Tags</a>
+  <a href="/RDjarbeng/categories/">Categories</a>
+  <a href="/RDjarbeng/tags/">Tags</a>
 </div>
 <!-- Results container -->
 <ul id="results-container"></ul>
@@ -32,51 +32,52 @@ title: Blog
   <div class="post-card">
     <a class="post-link" href="{{ post.url | relative_url }}">
       <h3>
-          {{ post.title | escape }}
-        </h3>
-        {% if post.image and post.image.size > 0 %}
-        <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image posts">
-        {% endif %}
-        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-         <!-- Display categories -->
-         <div class="post-meta-categories-container">
-          <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-          
-          {% if post.categories and post.categories.size > 0 %}
-          <div class="post-categories">
-            {% for category in post.categories %}
-              <a href="{{ '/categories/' | relative_url }}{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
-          </div>
-          {% endif %}
+        {{ post.title | escape }}
+      </h3>
+      {% if post.image and post.image.size > 0 %}
+      <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image posts">
+      {% endif %}
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <!-- Display categories -->
+      <div class="post-meta-categories-container">
+        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+
+        {% if post.categories and post.categories.size > 0 %}
+        <div class="post-categories">
+          {% for category in post.categories %}
+          <a href="{{ '/categories/' | relative_url }}{{ category | slugify }}">{{ category }}</a>{% unless forloop.last
+          %}, {% endunless %}
+          {% endfor %}
         </div>
+        {% endif %}
       </div>
-      </a>
+    </a>
+  </div>
   {% endfor %}
 </div>
 <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 
- <!-- Include Simple Jekyll Search script -->
+<!-- Include Simple Jekyll Search script -->
 <script>
-function highlightTerm(text, term) {
+  function highlightTerm(text, term) {
     var regex = new RegExp('(' + term + ')', 'gi');
     return text.replace(regex, '<span class="highlighted">$1</span>');
-}
+  }
 
-SimpleJekyllSearch({
+  SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{ "/search.json" | relative_url }}',
     searchResultTemplate: '<li><a href="{url}">{title}</a><br><span>{date}</span></li>',
     noResultsText: 'No results found',
     limit: 10,
-    success: function(results) {
-        var term = document.getElementById('search-input').value;
-        var resultItems = document.querySelectorAll('#results-container li');
-        resultItems.forEach(function(item) {
-            item.innerHTML = highlightTerm(item.innerHTML, term);
-        });
+    success: function (results) {
+      var term = document.getElementById('search-input').value;
+      var resultItems = document.querySelectorAll('#results-container li');
+      resultItems.forEach(function (item) {
+        item.innerHTML = highlightTerm(item.innerHTML, term);
+      });
     }
-});
+  });
 
 </script>
