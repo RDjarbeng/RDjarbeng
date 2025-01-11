@@ -4,7 +4,7 @@ author: Richard
 categories: []
 tags: []
 title: Starlink's Direct to Cell Service Now Available in LA for T-Mobile Subscribers
-image: ''
+image: /RDjarbeng/assets/images/elon_la_fire_dtc.png
 video: ''
 layout: post
 ---
