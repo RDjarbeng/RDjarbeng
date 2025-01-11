@@ -26,6 +26,8 @@ Starlink, a project by SpaceX, aims to provide global internet coverage through 
 
 The availability of this service has significantly improved emergency communications in disaster scenarios. As mentioned in a recent article on improving emergency management communications, satellite internet like Starlink can be pivotal in maintaining communication when traditional methods fail due to power outages or infrastructure damage. This was crucial during the LA wildfires, where maintaining contact with emergency services was paramount. [Improving Emergency Management Communications with Starlink Satellite Internet](https://www.d4h.com/blog/improving-emergency-management-communications-with-starlink-satellite-internet)[](https://www.d4h.com/blog/improving-emergency-management-communications-with-starlink-satellite-internet)
 
+![Los Angeles fire seen from an airplane](/RDjarbeng/assets/images/los_angeles_fire.jpg "Los Angeles fire in California seen from an airplane")
+
 ### Broader Implications
 
 This move by Starlink and T-Mobile is part of a larger vision to provide near-complete coverage across most places in the U.S., as announced in a joint event in August 2022. The partnership aims to eventually cover not just emergency situations but also to provide everyday connectivity in areas where traditional service might be sparse or non-existent. [T-Mobile Takes Coverage Above and Beyond With SpaceX](https://www.t-mobile.com/news/un-carrier/coverage-above-and-beyond)[](https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex)
