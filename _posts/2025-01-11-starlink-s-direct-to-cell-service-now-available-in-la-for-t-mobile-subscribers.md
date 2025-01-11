@@ -34,6 +34,8 @@ This move by Starlink and T-Mobile is part of a larger vision to provide near-co
 
 Elon Musk's announcement of Starlink's Direct to Cell service in Los Angeles is a testament to the evolving landscape of communication technology, especially in crisis situations. It underscores the potential of satellite technology to not only enhance everyday connectivity but also to serve as a lifeline when traditional systems fail.
 
+For more information you can look at this earlier [post](https://rdjarbeng.github.io/RDjarbeng/starlink-s-direct-to-cell-revolutionizing-mobile-connectivity/) I made about [starlink's direct to cell technology](https://rdjarbeng.github.io/RDjarbeng/starlink-s-direct-to-cell-revolutionizing-mobile-connectivity/)
+
 ---
 
 ### Additional Resources
@@ -41,3 +43,4 @@ Elon Musk's announcement of Starlink's Direct to Cell service in Los Angeles is 
 - [T-Mobile allows L.A. wildfire victims to text for help using Starlink Direct-to-Cell satellite system](https://www.phonearena.com/news/t-mobile-starlink-direct-to-cell-la-wildfires_id149140) - For more details on how the service was implemented during the wildfires. [](https://www.phonearena.com/news/t-mobile-enables-direct-to-call-in-los-angeles-due-to-wildfire_id166499)
 - [Starlink Internet Review: Low Satellites, High Pricing](https://www.cnet.com/reviews/starlink-internet-review/) - An overview of Starlink's service availability and pricing. [](https://www.cnet.com/home/internet/starlink-internet-review/)
 - [Elon Musk's Original Tweet](https://x.com/elonmusk/status/1877560971973329273) - Direct link to the tweet where Elon Musk announced the service in LA. [](https://x.com/elonmusk/status/1877219652050313671)
+- Starlink direct to cell
