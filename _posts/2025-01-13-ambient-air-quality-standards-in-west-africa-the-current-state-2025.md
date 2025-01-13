@@ -77,5 +77,3 @@ While West Africa has made strides in setting ambient air quality standards, the
 4. **Air Quality and Health in West Africa** - [IntechOpen](https://www.intechopen.com/chapters/78062)[](https://www.intechopen.com/chapters/80743)
 5. **Ambient air pollution and health in Sub-Saharan Africa: Current evidence, perspectives and a call to action** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0013935119300933)[](https://www.sciencedirect.com/science/article/pii/S0013935119301574)
 6. **Air quality management strategies in Africa: A scoping review of the content, context, co-benefits and unintended consequences** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969720308944)[](https://www.sciencedirect.com/science/article/pii/S0160412022006365)
-
-Please note, for actual links, you would need to perform a search using the provided citation format to find the precise URLs, as they are not directly provided here.
