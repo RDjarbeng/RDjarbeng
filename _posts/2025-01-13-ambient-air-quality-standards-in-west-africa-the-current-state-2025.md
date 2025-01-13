@@ -10,7 +10,7 @@ tags:
   - West Africa
   - Africa
 title: 'Ambient Air Quality Standards in West Africa: The Current State (2025)'
-image: ''
+image: /RDjarbeng/assets/images/brightglobe_in_africa.jpg
 video: ''
 layout: post
 ---
@@ -73,13 +73,9 @@ While West Africa has made strides in setting ambient air quality standards, the
 1. **A review on ambient and indoor air pollution status in Africa** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0269749118329411)[](https://www.sciencedirect.com/science/article/abs/pii/S1309104220303238)
    
 2. **A Scoping Review on Air Quality Monitoring, Policy and Health in West African Cities** - [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10682804/)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7730241/)
-
 3. **EPA Collaboration with Sub-Saharan Africa** - [US EPA](https://www.epa.gov/international-cooperation/epa-collaboration-sub-saharan-africa)[](https://www.epa.gov/international-cooperation/epa-collaboration-sub-saharan-africa)
-
 4. **Air Quality and Health in West Africa** - [IntechOpen](https://www.intechopen.com/chapters/78062)[](https://www.intechopen.com/chapters/80743)
-
 5. **Ambient air pollution and health in Sub-Saharan Africa: Current evidence, perspectives and a call to action** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0013935119300933)[](https://www.sciencedirect.com/science/article/pii/S0013935119301574)
-
 6. **Air quality management strategies in Africa: A scoping review of the content, context, co-benefits and unintended consequences** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969720308944)[](https://www.sciencedirect.com/science/article/pii/S0160412022006365)
 
 Please note, for actual links, you would need to perform a search using the provided citation format to find the precise URLs, as they are not directly provided here.
