@@ -8,7 +8,7 @@ tags:
   - Cybertruck
   - Elon Musk
   - California
-title: Mobile Base Stations in Emergency Communications
+title: Cybertrucks as mobile Base Stations in Emergency Communications
 image: /RDjarbeng/assets/images/cybertruck.jpeg
 video: ''
 layout: post
@@ -20,8 +20,8 @@ layout: post
 ![Tesla cybertrucks lined up](https://pbs.twimg.com/media/GhHzgf1W8AARQfS?format=jpg&name=small "Tesla cybertrucks lined up")
 
 #### TLDR
----
 
+---
 
 Natural disasters like wildfires, earthquakes, or hurricanes often disrupt traditional communication infrastructure, leaving affected areas isolated. This is where mobile base stations come into play, providing a critical lifeline by extending network coverage to areas where it's needed most.
 
