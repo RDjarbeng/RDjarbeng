@@ -21,7 +21,6 @@ layout: post
 
 ![Tesla cybertrucks lined up](https://pbs.twimg.com/media/GhHzgf1W8AARQfS?format=jpg&name=small "Tesla cybertrucks lined up")
 
-
 Natural disasters like wildfires, earthquakes, or hurricanes often disrupt traditional communication infrastructure, leaving affected areas isolated. This is where mobile base stations come into play, providing a critical lifeline by extending network coverage to areas where it's needed most.
 
 ## What Are Mobile Base Stations?
@@ -46,11 +45,11 @@ A recent example of the practical application of mobile base stations in emergen
 
 > We are going to position Cybertrucks with Starlinks and free WiFi in a grid pattern in the areas that most need it in the greater LA/Malibu area - Elon Musk, @elonmusk, 21:11 2025-01-12 UTC [](#)[](https://x.com/elonmusk/status/1878550409851093287)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are going to position Cybertrucks with Starlinks and free WiFi in a grid pattern in the areas that most need it in the greater LA/Malibu area <a href="https://t.co/oWilgDyVh5">https://t.co/oWilgDyVh5</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1878550409851093287?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This initiative not only demonstrates the versatility of mobile base stations but also underscores the potential for private sector innovation in public emergency response. By converting Cybertrucks into mobile base stations, Musk's strategy aims to cover areas where traditional infrastructure has failed, enhancing the response to the crisis by providing both power and internet connectivity.
 
 ![A cybertruck](/RDjarbeng/assets/images/cybertruck.jpeg "A cybertruck")
-
-
 
 ## Conclusion
 
@@ -60,5 +59,4 @@ Mobile base stations  offer a beacon of connectivity, ensuring that even in the 
 
 - [Base transceiver station - Wikipedia](https://en.wikipedia.org/wiki/Base_transceiver_station) (https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [Flying Base station for Temporary Mobile Communications in an Area Affected by a Disaster | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/8385785) [](#)[](https://ieeexplore.ieee.org/document/8636379)
-- [Starlink SATCOM Integration Guide - techlibrary.doodlelabs.com](https://techlibrary.doodlelabs.com/starlink-satcom-integration-guide/) [](#)[](https://techlibrary.doodlelabs.com/starlink-satcom-integration-guide)
 - [Elon Musk's Tweet on X](https://x.com/elonmusk/status/1878550409851093287) [](#)[](https://x.com/elonmusk/status/1878550409851093287)
