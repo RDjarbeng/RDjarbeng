@@ -17,11 +17,13 @@ layout: post
 - This initiative comes after Musk's criticism of California's wildfire management, suggesting a comparison between his actions and the state's response, which adds a layer of socio-political commentary to the [post.](https://x.com/elonmusk/status/1878550409851093287)
 - The trucks will provide a source of power to the starlink terminals acting as mobile base stations.
 
-![Tesla cybertrucks lined up](https://pbs.twimg.com/media/GhHzgf1W8AARQfS?format=jpg&name=small "Tesla cybertrucks lined up")
-
-#### TLDR
+TLDR
 
 ---
+
+![Tesla cybertrucks lined up](https://pbs.twimg.com/media/GhHzgf1W8AARQfS?format=jpg&name=small "Tesla cybertrucks lined up")
+
+#### 
 
 Natural disasters like wildfires, earthquakes, or hurricanes often disrupt traditional communication infrastructure, leaving affected areas isolated. This is where mobile base stations come into play, providing a critical lifeline by extending network coverage to areas where it's needed most.
 
