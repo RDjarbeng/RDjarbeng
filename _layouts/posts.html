@@ -31,9 +31,9 @@ title: Blog
   {% for post in site.posts %}
   <div class="post-card">
     <a class="post-link" href="{{ post.url | relative_url }}">
-      <h4>
+      <h4 title="{{ post.title | escape }}">
         {{ post.title | escape }}
-      </h4>
+    </h4>
       {% if post.image and post.image.size > 0 %}
       <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image posts">
       {% endif %}
