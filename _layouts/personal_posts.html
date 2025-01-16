@@ -9,15 +9,6 @@ permalink: /personal/
 <div class="personal-posts-list">
     {% assign sorted_posts = site.personal | sort: 'date' | reverse %}
     {% for post in sorted_posts %}
-    <div class="post-card">
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h3>
-      {% if post.image and post.image.size > 0 %}
-        <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image posts">
-        {% endif %}
-      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-    </div>
+    {% include post-card.html post=post %}
   {% endfor %}
 </div>
