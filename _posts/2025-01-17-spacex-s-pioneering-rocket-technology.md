@@ -8,30 +8,30 @@ tags:
   - ElonMusk
   - Innovation
   - SpaceTravel
-title: SpaceX's Pioneering Rocket Technology
+title: SpaceX Pioneering Rocket Technology
 image: /RDjarbeng/assets/images/space_x_gallery.avif
 video: ''
 layout: post
 ---
 SpaceX, under the leadership of Elon Musk, has revolutionized rocket technology with several groundbreaking innovations:
 
-![SpaceX rocket models |Credit: https://www.aliexpress.com/item/1005005544563210.html](/RDjarbeng/assets/images/space_x_gallery.avif "SpaceX rocket models |Credit: https://www.aliexpress.com/item/1005005544563210.html")
+![SpaceX rocket models |Credit: https://www.aliexpress.com/item/1005005544563210.html](/RDjarbeng/assets/images/space_x_gallery.avif "SpaceX rocket models |Credit:SpaceX")
 
 ## **Reusable Rockets: Falcon 9 and Falcon Heavy**
 
 - **Falcon 9**: SpaceX's Falcon 9 rocket was the first to successfully demonstrate the reusability of rocket first stages, significantly lowering the cost of space access. The first successful vertical landing of a Falcon 9 first stage occurred in December 2015, marking a new era in spaceflight where rockets could return to Earth and be reused for multiple missions. 
 
-![Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A](/RDjarbeng/assets/images/falcon_9.jpg "Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A| credit:https://www.spacex.com/vehicles/falcon-9/")
+![Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A](/RDjarbeng/assets/images/falcon_9.jpg "Falcon 9 launches Dragon to the International Space Station from Launch Complex 39A| credit: SpaceX")
 
 - **Falcon Heavy**: An evolution from Falcon 9, Falcon Heavy is one of the most powerful operational rockets in the world, utilizing three Falcon 9 cores. It also incorporates reusability, with its side boosters landing back at the launch site and the center core often landing on a drone ship at sea, further reducing the expense of heavy-lift capabilities.
 
-![Falcon Heavy vertical at Kennedy Space Center| credits: https://www.spacex.com/vehicles/falcon-heavy/](/RDjarbeng/assets/images/falcon_heavy.jpg "Falcon Heavy vertical at Kennedy Space Center| credits: https://www.spacex.com/vehicles/falcon-heavy/ vertical at Kennevdy Space Center")
+![Falcon Heavy vertical at Kennedy Space Center| credits: https://www.spacex.com/vehicles/falcon-heavy/](/RDjarbeng/assets/images/falcon_heavy.jpg "Falcon Heavy vertical at Kennedy Space Center| credits: SpaceX")
 
 ## **Starship and Super Heavy**
 
 - **Starship**: This is SpaceX's ambitious project aimed at interplanetary travel, particularly to Mars. Starship is designed to be fully reusable, both the spacecraft and its first-stage booster, Super Heavy. The goal is to make space travel as routine as air travel, drastically cutting costs and enabling human settlement on other planets.
 
-![Starship from spaceX | credit: https://www.spacex.com/vehicles/starship/](/RDjarbeng/assets/images/Starship_spacex_website.jpg "Starship from spaceX | credit: https://www.spacex.com/vehicles/starship/")
+![Starship from spaceX | credit: https://www.spacex.com/vehicles/starship/](/RDjarbeng/assets/images/Starship_spacex_website.jpg "Starship from spaceX | credit: SpaceX")
 
 - **Super Heavy**: The Super Heavy booster, equipped with 33 Raptor engines, is the first stage of the Starship system. It's designed to return to the launch site after launching Starship into orbit, where it's caught by specialized mechanical arms known as "chopsticks." This technology not only reduces costs but also speeds up the turnaround time for launches, crucial for SpaceX's vision of frequent Mars missions.
 
