@@ -45,6 +45,8 @@ SpaceX, under the leadership of Elon Musk, has revolutionized rocket technology 
 
 ## **Impact on Space Industry**
 
+![Space X website screenshot](/RDjarbeng/assets/images/space_x_website_screenshot.png "Space X website screenshot")
+
 - SpaceX's advancements in rocket technology have not only reduced the cost of access to space but have also spurred competition, pushing other companies and space agencies towards innovation. The reusable aspect of their rockets has set a new standard in the industry, making space more accessible for commercial, scientific, and exploratory purposes.
 
 SpaceX's continuous innovation in rocket technology is paving the way for a future where space travel could be as common as international flights, with Mars colonization becoming a realistic goal. Follow their journey and achievements for a glimpse into the future of space exploration.
