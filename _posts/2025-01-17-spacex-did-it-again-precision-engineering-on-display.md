@@ -20,3 +20,5 @@ Just when you thought Elon Musk couldn't surprise us anymore, he's done it again
  Witnessing this achievement is like watching the future unfold before our eyes. Check out the incredible moment here: 
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/yQal3BxWFt">pic.twitter.com/yQal3BxWFt</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1880025359636394458?ref_src=twsrc%5Etfw">January 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In an earlier post I mentioned the [first catch of the super heavy booster](https://rdjarbeng.github.io/RDjarbeng/catching-the-super-heavy-booster-spacex/)
