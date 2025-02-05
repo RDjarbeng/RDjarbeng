@@ -41,8 +41,6 @@ West Africa is grappling with significant air pollution, particularly in its urb
 
 Air quality management in West Africa varies significantly by country, with each nation facing unique challenges in monitoring, regulation, and enforcement. Despite the presence of national standards for air pollutants, the practical implementation is often hindered by factors such as lack of resources, inadequate monitoring infrastructure, and weak policy enforcement. Below, we explore the air quality management approaches in several key West African countries:
 
-For real-time air quality data in West Africa, the [AirNow website](https://www.airnow.gov/international/us-embassies-and-consulates/), via U.S. Embassies, offers a useful snapshot. This is one of the websites that has the data across multiple countries in one place for easy access.
-![Airnow page showing map of the world with AIr quality indicators](/RDjarbeng/assets/images/airnow_africa.png "Map of the world with AIr quality indicators across different US embassises")
 
 ### Nigeria
 
@@ -73,6 +71,11 @@ Both countries have national air quality standards, but they face similar issues
 ## Health and Environmental Consequences
 
 The health implications of poor air quality in West Africa are severe, with high incidences of respiratory diseases, cardiovascular issues, and premature deaths linked to air pollution. Environmentally, air pollution affects agriculture, visibility, and contributes to climate change.
+
+## Air quality data platforms
+For real-time air quality data in West Africa an honorable mention is the [AirNow website](https://www.airnow.gov/international/us-embassies-and-consulates/), via U.S. Embassies, offers a useful snapshot. This is one of the websites that has the data across multiple countries in one place for easy access.
+![Airnow page showing map of the world with AIr quality indicators](/RDjarbeng/assets/images/airnow_africa.png "Map of the world with AIr quality indicators across different US embassises")
+
 
 ## Future Directions
 
