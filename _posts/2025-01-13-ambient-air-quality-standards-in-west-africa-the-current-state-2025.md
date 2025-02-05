@@ -20,15 +20,11 @@ In the rapidly urbanizing region of West Africa, ambient air quality has become 
 
 In the First Global Assessment of Air Pollution Legislation by the United Nations Environment Programme (UNEP) it is stated,
 
-_"While ambient air quality is monitored in many countries,_
-_this is not a legal requirement in at least 37 per cent of_
-_countries. In countries where monitoring is framed in_
-_legislation, important questions arise about the rigour of_
-_monitoring, as well as issues of capacity"_
+> "While ambient air quality is monitored in many countries, this is not a legal requirement in at least 37 per cent of countries. In countries where monitoring is framed in legislation, important questions arise about the rigour of monitoring, as well as issues of capacity"
 
 The global Ambient Air Quality Standards are needed for context before the assessment of air pollution in West Africa.
 
-_"The primary global guidance on air quality is scientific, as provided by the World Health Organization (WHO) air quality guideline values for ambient air quality. These guideline values are not intended to be binding upon States, but they reflect a high degree of scientific consensus, giving them global authority." - UNEP_
+> "The primary global guidance on air quality is scientific, as provided by the World Health Organization (WHO) air quality guideline values for ambient air quality. These guideline values are not intended to be binding upon States, but they reflect a high degree of scientific consensus, giving them global authority." - UNEP
 
 ## The Challenge of Air Pollution in West Africa
 
@@ -90,4 +86,4 @@ While West Africa has made strides in setting ambient air quality standards, the
 4. **Air Quality and Health in West Africa** - [IntechOpen](https://www.intechopen.com/chapters/78062)[](https://www.intechopen.com/chapters/80743)
 5. **Ambient air pollution and health in Sub-Saharan Africa: Current evidence, perspectives and a call to action** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0013935119300933)[](https://www.sciencedirect.com/science/article/pii/S0013935119301574)
 6. **Air quality management strategies in Africa: A scoping review of the content, context, co-benefits and unintended consequences** - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969720308944)[](https://www.sciencedirect.com/science/article/pii/S0160412022006365)
-7.  Regulating Air Quality: the First Global Assessment of Air Pollution Legislation -[UNEP](https://www.unep.org/resources/report/regulating-air-quality-first-global-assessment-air-pollution-legislation)
+7.  **Regulating Air Quality: the First Global Assessment of Air Pollution Legislation** -[UNEP](https://www.unep.org/resources/report/regulating-air-quality-first-global-assessment-air-pollution-legislation)
