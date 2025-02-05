@@ -15,14 +15,14 @@ tags:
   - AI
   - Research
   - Object Detection
-title: "SAMURAI: Advancing Zero-Shot Visual Tracking with Motion-Aware Memory"
+title: 'SAMURAI: Advancing Zero-Shot Visual Tracking with Motion-Aware Memory'
 image: /RDjarbeng/assets/images/Samurai_paper_logo.png
-video: ""
+video: ''
 layout: post
 ---
 A new paper, titled _"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"_, introduces an enhancement to visual object tracking building upon Segment Anything Model 2 (SAM 2). This work from the University of Washington addresses key challenges in object tracking, particularly in crowded or dynamic environments, and demonstrates significant improvements in accuracy and robustness.
 
-![Samurai logo](/RDjarbeng/assets/images/Samurai_paper_logo.png)
+![Samurai logo](/RDjarbeng/assets/images/Samurai_paper_logo.png "Samurai logo from the  paper")
 
 SAMURAI incorporates a motion-based scoring mechanism to enhance mask prediction and employs memory selection strategies to address challenges like self-occlusion and sudden movements in crowded environments. The proposed enhancements consistently improve all variations of SAM across various VOT benchmarks and metrics.
 
@@ -55,6 +55,10 @@ The advancements introduced by SAMURAI have significant implications for various
 - **Autonomous Vehicles**: Real-time object tracking is crucial for navigation and obstacle avoidance.
 - **Sports Analytics**: Accurate tracking of players or objects during games can provide valuable insights.
 - **Robotics**: Improved visual tracking can enhance the autonomy and efficiency of robots in dynamic environments.
+
+##### Shortcomings
+
+The paper does not include a demo on their website. It would be nice to have an online demo that accepts input from the user so it can be tested by other users. A good place for this would have been on their website. Their website and GitHub is linked below.
 
 #### **Conclusion**
 
