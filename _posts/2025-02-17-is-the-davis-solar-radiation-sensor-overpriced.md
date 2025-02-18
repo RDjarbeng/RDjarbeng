@@ -38,7 +38,7 @@ The Davis sensor is designed with high-quality materials and technology to ensur
 
 While some users appreciate its accuracy, others feel it's overpriced when compared to their expectations or needs. A user's comment on X highlighted its effectiveness but questioned its value for money.
 
-Also, if you choose to extend this weather station by adding the Wind vane and anemometer also from DAVIS the budget will start approaching $500. Could this be a justifiable price for a weather station with 2 measurement devices?
+Also, if you choose to extend this weather station by adding the Wind vane and anemometer also from DAVIS the budget will start approaching €500. Could this be a justifiable price for a weather station with 2 measurement devices? Can this be considered a low-cost solution for a weather station?
 
 ![Wind vane and anemometer from Davis instruments](/RDjarbeng/assets/images/wind_vane_anemometer_from_davis.png "Wind vane and anemometer from Davis instruments")
 
