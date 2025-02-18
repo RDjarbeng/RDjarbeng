@@ -20,7 +20,7 @@ When it comes to measuring solar radiation for agricultural, meteorological, or 
 
 ## Product Overview
 
-- **Price:** Around €232.74, although this can vary based on where and when you buy it.
+- **Price:** At the time of writing this post, around €232.74, although this can vary based on where and when you buy it.
 - **Features:** 
 - Measures solar radiation for calculating evapotranspiration (ET) and Temperature/Humidity/Sun/Wind (THSW) Index.
 - Utilizes a diffuser element for accurate cosine response.
