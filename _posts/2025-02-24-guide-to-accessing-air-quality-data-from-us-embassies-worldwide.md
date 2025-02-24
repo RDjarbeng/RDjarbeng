@@ -15,6 +15,8 @@ layout: post
 ---
 AirNow.gov is a collaborative platform involving the US Environmental Protection Agency (EPA), the National Oceanic and Atmospheric Administration (NOAA), and other agencies, dedicated to providing air quality information to the public. Among its offerings is air quality data from US embassies and consulates located around the world. This data serves as a critical resource for researchers, policymakers, and individuals concerned with environmental health and air pollution trends globally.
 
+![Screenshot or Air Now website showing map of air quality](/RDjarbeng/assets/images/airnow_africa-2.png "Air Now website showing map of air quality across different countries")
+
 ## Accessing the Data
 
 To retrieve air quality data from a specific US embassy or consulate, follow these steps:
