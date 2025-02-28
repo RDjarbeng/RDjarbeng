@@ -61,3 +61,7 @@ Determining if the Davis Solar Radiation Sensor is overpriced depends on your sp
 ---
 
 _Note: Prices and product features can change. Always check the latest information from the manufacturer or seller before making a purchase decision._
+
+**PS:** Around the time I was writing this post there was a warning to minimize UV exposure in Kigali from the weather section on my windows lock screen. I wonder if this recommendation used a solar radiation sensor like this one in the post.
+
+![Graph of  UV index in Kigali showing high exposure](/RDjarbeng/assets/images/High%20UV_index%202025-02-03%20124042.png "UV index in Kigali showing high exposure")
