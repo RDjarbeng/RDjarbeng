@@ -4,19 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Computer Engineer
 -----------------------------
 
-I specialize mostly in web development, machine learning and Internet of Things (IoT) devices. Also have an interest in Computer vision applications and [air quality](https://rdjarbeng.github.io/understanding-the-air-quality-index-aqi/).
+Interests: 
+* web development
+* machine learning (ML): Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
+*  Internet of Things (IoT) devices
+*   Computer vision applications
+*   [air quality](https://rdjarbeng.github.io/understanding-the-air-quality-index-aqi/).
+  
 <br/>
 Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
 
-Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
-
-
 
 * 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
 * Also building my [personal website](https://rdjarbeng.github.io/) where I [blog](https://rdjarbeng.github.io/RDjarbeng/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
-* 🧠  I'm learning Machine learning, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
+* 🧠  I'm learning ML, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
 * My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
 * 🤝  Open to collaborating on interesting projects
 
