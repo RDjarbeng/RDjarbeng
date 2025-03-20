@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Computer Engineer
 -----------------------------
 
-I specialize mostly in web development, machine learning and Internet of Things (IoT) devices such as the Raspberry Pi and Arduino. Also have an interest in Computer vision applications.
+I specialize mostly in web development, machine learning and Internet of Things (IoT) devices. Also have an interest in Computer vision applications and [air quality](https://rdjarbeng.github.io/understanding-the-air-quality-index-aqi/).
 <br/>
 Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
