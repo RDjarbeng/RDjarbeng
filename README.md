@@ -10,12 +10,10 @@ Interests:
 *  Internet of Things (IoT) devices
 *   Computer vision applications
 *   [Air quality](https://rdjarbeng.github.io/understanding-the-air-quality-index-aqi/).
-  
 <br/>
 Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 <br/>
 Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
-
 
 * 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
 * Also building my [personal website](https://rdjarbeng.github.io/) where I [blog](https://rdjarbeng.github.io/RDjarbeng/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
