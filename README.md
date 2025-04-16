@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Richard Djarbeng
-========================================================================================================================================
-
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 Developer | Computer Engineer
------------------------------
+========================================================================================================================================
 
 Interests: 
 * Web development
@@ -10,12 +8,15 @@ Interests:
 *  Internet of Things (IoT) devices
 *   Computer vision applications
 *   [Air quality](https://airanalysis.netlify.app/).
+I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 
-Often I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
+## Contact
+Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
 
-
-* 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
+## Website
 * Also building my [personal website](https://rdjarbeng.github.io/) where I [blog](https://rdjarbeng.github.io/RDjarbeng/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
+## Current projects
+* 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
 * 🧠  I'm learning ML, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
 * My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
 * Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
@@ -38,8 +39,6 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-## Contact
-Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
 
 ### Socials
 
@@ -53,5 +52,5 @@ Best way to contact me directly is via the [contact form on my website](https://
     <img src="https://github.com/user-attachments/assets/ce226641-4a80-434e-b113-175c3598d5de" width="32" height="32" alt="twitter" /></a>
 </p>
 
-Reach me on X/twitter or on linkedIn.
+Reach me on my website, X/twitter or on linkedIn.
 
