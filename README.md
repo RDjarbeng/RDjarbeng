@@ -27,6 +27,15 @@ I use Python, JavaScript, C++, Dart for Flutter mobile app development and a hos
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+### Technical skills
+
+- Languages: JavaScript (ES6+), Python, Java, C++
+- Web Development: React.js, Node.js, Express.js, RESTful APIs, WebSockets
+- Cloud & ML: Google Cloud (Vertex AI, BigQuery), AWS (solutions architect certification in progress), CNN Architectures
+- Tools & Practices: Git, Test-Driven Development
+- Others: PWAs, Performance Optimization, IoT (Raspberry Pi), Satellite Image Processing
+
+
 
 ## Contact
 Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
