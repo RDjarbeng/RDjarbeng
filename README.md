@@ -6,8 +6,9 @@ Interests:
 * Web development
 * Machine learning (ML): Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 *  Internet of Things (IoT) devices
+*   [Air quality](https://airanalysis.netlify.app/)
 *   Computer vision applications
-*   [Air quality](https://airanalysis.netlify.app/).
+  
 I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 
 ### Skills
