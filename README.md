@@ -64,5 +64,5 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
     <img src="https://github.com/user-attachments/assets/ce226641-4a80-434e-b113-175c3598d5de" width="32" height="32" alt="twitter" /></a>
 </p>
 
-Reach me on my website, X/twitter or on linkedIn.
+
 
