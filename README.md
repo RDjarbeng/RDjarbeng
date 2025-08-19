@@ -39,10 +39,10 @@ I use Python, JavaScript, C++, Dart for Flutter mobile app development and a hos
 
 
 ## Contact
-Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.github.io/RDjarbeng/about/#contact-form)
+Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form)
 
 ## Website
-* Also building my [personal website](https://rdjarbeng.github.io/) where I [blog](https://rdjarbeng.github.io/RDjarbeng/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
+* Also building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally about non-technical stuff as well. Using [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
 ## Current projects
 * 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
 * 🧠  I'm learning ML, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
