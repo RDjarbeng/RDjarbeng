@@ -6,7 +6,7 @@ Interests:
 * Web development
 * Machine learning (ML): Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/), [SveltiaCMS](https://github.com/sveltia/sveltia-cms)
 *  Internet of Things (IoT) devices
-*   [Air quality](https://airanalysis.netlify.app/)
+*   [Air quality](https://airanalysis.netlify.app/) and [research in air quality](https://www.africa.engineering.cmu.edu/news/2024/08/20-richard-djarbeng.html)
 *   Computer vision applications
   
 I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
@@ -45,10 +45,12 @@ Best way to contact me directly is via the [contact form on my website](https://
 I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. My latest [post](https://rdjarbeng.com/a-chronological-look-at-ai-a-decade-by-decade-evolution/) is a decade-by-decade look at the evolution of Artificial Intelligence; from the theoretical roots of the 1940s to the generative AI boom of today. I also talk about non-technical stuff such as my trip to the Cornell, Maryland, Max-Planck research school in Germany. For my blog I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
   
 ## Current projects
-* 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
+* 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game) <img width="1363" height="610" alt="3d_rl_game" src="https://github.com/user-attachments/assets/01a0c3e0-e292-4e73-aaab-e64978b87887" />
+
 * 🧠  I'm learning ML, Data Science, Software Engineering best practices. Also following the course [fastai](https://course.fast.ai/) for deep learning
 * My ML projects are deployed on [hugging face](https://huggingface.co/rdjarbeng)
-* Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/)
+* Owner of open-source [Countdown application with themes and dark mode](http://rcountdown.netlify.app/) <img width="2730" height="1131" alt="image" src="https://github.com/user-attachments/assets/9145683a-7d59-4784-bc16-78465a3d869d" />
+
 * 🤝  Open to collaborating on interesting projects
 
 _Most of my animation projects in Blender or work with Unity are not on Github._
