@@ -10,6 +10,11 @@ Interests:
 *   Computer vision applications
   
 I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
+AI applications are interesting to me so I review interesting ones on my blog. Examples are Andrew Ng's startup [landing AI for object detection and document exraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/), [DiD's text to Video models](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/) and [Kolor's virtual try-on with image below](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/).
+<img width="1251" height="616" alt="image" src="https://github.com/user-attachments/assets/c6cf95c8-434e-4bda-b8be-7147d7e6c602" />
+
+
+Hope to share my experience with Gemini and Nano banana soon.
 
 ### Skills
 
