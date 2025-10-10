@@ -10,11 +10,14 @@ Interests:
 *   Computer vision applications
   
 I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
-AI applications are interesting to me so I review interesting ones on my blog. Examples are Andrew Ng's startup [landing AI for object detection and document exraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/), [DiD's text to Video models](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/) and [Kolor's virtual try-on with image below](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/).
-<img width="1251" height="616" alt="image" src="https://github.com/user-attachments/assets/c6cf95c8-434e-4bda-b8be-7147d7e6c602" />
 
+## AI Apps
 
-Hope to share my experience with Gemini and Nano banana soon.
+I'm fascinated by AI applications, so I review the most intriguing ones on my blog. Highlights include [Andrew Ng's Landing AI for object detection and document extraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/), DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/)), and Kolors' ([virtual try-on](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/)) (image below).
+
+<img width="1251" height="616" alt="Kolors virtual try-on interface" src="https://github.com/user-attachments/assets/c6cf95c8-434e-4bda-b8be-7147d7e6c602" />
+
+Excited to share my experiences with Gemini and Nano Banana soon!
 
 ### Skills
 
