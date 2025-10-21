@@ -47,7 +47,7 @@ In my latest post I share my experience with Gemini and Nano Banana: [I Tried to
 
 
 ## Contact
-Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form)
+Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form). Also available on email at rdjarbeng@rdjarbeng.com
 
 ## Website
 I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. My latest [post](https://rdjarbeng.com/a-chronological-look-at-ai-a-decade-by-decade-evolution/) is a decade-by-decade look at the evolution of Artificial Intelligence; from the theoretical roots of the 1940s to the generative AI boom of today. I also talk about non-technical stuff such as my trip to the Cornell, Maryland, Max-Planck research school in Germany. For my blog I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
