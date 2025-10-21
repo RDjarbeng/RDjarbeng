@@ -40,7 +40,7 @@ In my latest post I share my experience with Gemini and Nano Banana: [I Tried to
 
 - Languages: JavaScript (ES6+), Python, Java, C++
 - Web Development: React.js, Node.js, Express.js, RESTful APIs, WebSockets
-- Cloud & ML: Google Cloud (Vertex AI, BigQuery), AWS (solutions architect certification in progress), CNN Architectures
+- Cloud & ML: Google Cloud (Vertex AI, BigQuery), AWS (solutions architect certification in progress), FastAI, pytorch, keras, Computer vision
 - Tools & Practices: Git, Test-Driven Development
 - Others: PWAs, Performance Optimization, IoT (Raspberry Pi), Satellite Image Processing
 
