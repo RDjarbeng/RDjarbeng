@@ -17,7 +17,7 @@ I'm fascinated by AI applications, so I review the most intriguing ones on my bl
 
 <img width="1251" height="616" alt="Kolors virtual try-on interface" src="https://github.com/user-attachments/assets/c6cf95c8-434e-4bda-b8be-7147d7e6c602" />
 
-Excited to share my experiences with Gemini and Nano Banana soon!
+In my latest post I share my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
 
 ### Skills
 
