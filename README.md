@@ -5,7 +5,7 @@
 
 Interests: 
 * Web development
-* Machine learning (ML): Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/), [SveltiaCMS](https://github.com/sveltia/sveltia-cms)
+* Machine learning (ML): Contributor to the [complete machine learning package](https://github.com/Nyandwi/machine_learning_complete/)
 * Internet of Things (IoT) devices
 * [Air quality](https://airanalysis.netlify.app/) and [research in air quality](https://www.africa.engineering.cmu.edu/news/2024/08/20-richard-djarbeng.html)
 * Computer vision applications
@@ -21,8 +21,9 @@ I'm fascinated by AI applications, so I review the most intriguing ones on my bl
   
 
 ## Blog
-In my latest post I examine [Google Pay/Wallet and Apple pay](https://rdjarbeng.com/what-is-google-pay-and-apple-pay-how-they-work-where-they-work-why-they-re-safer/) and how it integrates into a traditional bank system.
-In my last post I share my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
+I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. In my latest post I examine [Google Pay/Wallet and Apple pay](https://rdjarbeng.com/what-is-google-pay-and-apple-pay-how-they-work-where-they-work-why-they-re-safer/) and how it integrates into a traditional bank system.
+I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
+In my last post I shared my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
 
 ### Skills
 
@@ -50,9 +51,6 @@ In my last post I share my experience with Gemini and Nano Banana: [I Tried to R
 
 ## Contact
 Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form). Also available on email at rdjarbeng@rdjarbeng.com
-
-## Website
-I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. My latest [post](https://rdjarbeng.com/a-chronological-look-at-ai-a-decade-by-decade-evolution/) is a decade-by-decade look at the evolution of Artificial Intelligence; from the theoretical roots of the 1940s to the generative AI boom of today. I also talk about non-technical stuff such as my trip to the Cornell, Maryland, Max-Planck research school in Germany. For my blog I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
   
 ## Current projects
 * I tested out utralytics YOLO world for object detection in videos using some footage I captured in Kigali. The project is available on [Kaggle](https://www.kaggle.com/code/rdjarbeng/yolo-world-promptable-video-object-detection)
