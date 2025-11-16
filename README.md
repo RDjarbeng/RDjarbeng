@@ -16,11 +16,13 @@ I use Python, JavaScript, C++, Dart for Flutter mobile app development and a hos
 
 I'm fascinated by AI applications, so I review the most intriguing ones on my blog. Highlights include [Andrew Ng's Landing AI for object detection and document extraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/), DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/)), and Kolors' ([virtual try-on](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/)) (image below).
 
-<p align="center">
-  <img width="625" height="308" alt="Kolors virtual try-on interface" src="https://github.com/user-attachments/assets/c6cf95c8-434e-4bda-b8be-7147d7e6c602" />
-</p>
 
-In my latest post I share my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
+  ![kolors_try_on-rdjarbeng_gif_cover](https://github.com/user-attachments/assets/35a45697-a634-43da-8c4b-00172e22dbdc)
+  
+
+## Blog
+In my latest post I examine [Google Pay/Wallet and Apple pay](https://rdjarbeng.com/what-is-google-pay-and-apple-pay-how-they-work-where-they-work-why-they-re-safer/) and how it integrates into a traditional bank system.
+In my last post I share my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
 
 ### Skills
 
