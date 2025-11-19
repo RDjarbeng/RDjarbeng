@@ -58,9 +58,10 @@ Best way to contact me directly is via the [contact form on my website](https://
   
 ## Current projects
 * I tested out utralytics YOLO world for object detection in videos using some footage I captured in Kigali. The project is available on [Kaggle](https://www.kaggle.com/code/rdjarbeng/yolo-world-promptable-video-object-detection)
-<p align="center">
-  <img width="540" height="448" alt="yolo_world_detection_bikes_cropped_kaggle" src="https://github.com/user-attachments/assets/41835018-b046-4acf-823f-6a7c9b56ce96" />
-</p>
+
+  ![complete_sam_yolo_world_motorbike_video-ezgif com-optiwebp](https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470)
+
+
 
 * 🚀  I'm currently working on getting an AI agent to play this [3D game using reinforcement learning](https://github.com/RDjarbeng/3d-character-game)
 <p align="center">
