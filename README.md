@@ -22,7 +22,7 @@ I'm fascinated by AI applications, so I review the most intriguing ones on my bl
 
 ## Blog
 I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. In my latest post I examine [Google Pay/Wallet and Apple pay](https://rdjarbeng.com/what-is-google-pay-and-apple-pay-how-they-work-where-they-work-why-they-re-safer/) and how it integrates into a traditional bank system.
-I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts.
+I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts and also [contribute](https://github.com/sveltia/sveltia-cms/issues?q=is%3Aissue%20state%3Aclosed%20author%3ARDjarbeng) to it's development.
 
 In my last post I shared my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
 <p align="center">
