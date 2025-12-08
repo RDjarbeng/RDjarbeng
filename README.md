@@ -59,13 +59,7 @@ Best way to contact me directly is via the [contact form on my website](https://
 ## Current projects
 * I tested out utralytics YOLO world for object detection in videos using some footage I captured in Kigali. The project is available on [Kaggle](https://www.kaggle.com/code/rdjarbeng/yolo-world-promptable-video-object-detection)
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470" alt="complete_sam_yolo_world_motorbike_video" height="480" />
-  </a>
-</p>
-
-  
+  ![complete_sam_yolo_world_motorbike_video-ezgif com-optiwebp](https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470)
 
 
 
