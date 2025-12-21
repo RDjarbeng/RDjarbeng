@@ -57,6 +57,9 @@ In my last post I shared my experience with Gemini and Nano Banana: [I Tried to 
 Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form). Also available on email at rdjarbeng@rdjarbeng.com
   
 ## Current projects
+* I'm building this customizable [lyric video generato](https://videolyrics.netlify.app/)r for poems and songs. It's built with React and uses the browser text-to-speech API. It also uses commercial AI platforms such as OpenAI APIs & ElevenLabs.
+  <img width="1323" height="619" alt="image" src="https://github.com/user-attachments/assets/a1b817ff-d874-4157-82dd-5e92f3752eb0" />
+
 * I tested out utralytics YOLO world for object detection in videos using some footage I captured in Kigali. The project is available on [Kaggle](https://www.kaggle.com/code/rdjarbeng/yolo-world-promptable-video-object-detection)
 
   ![complete_sam_yolo_world_motorbike_video-ezgif com-optiwebp](https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470)
