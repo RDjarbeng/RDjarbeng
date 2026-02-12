@@ -87,7 +87,7 @@ _Most of my animation projects in Blender or work with Unity are not on Github._
     <img src="https://github.com/user-attachments/assets/a92b5110-4923-43a5-ac96-278dbf4eaf72"
     width="32" height="32" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/richarddjarbeng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/richarddjarbeng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/DjarbengRichard" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/ce226641-4a80-434e-b113-175c3598d5de" width="32" height="32" alt="twitter" />
   </a>
