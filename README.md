@@ -12,22 +12,30 @@ Interests:
   
 I use Python, JavaScript, C++, Dart for Flutter mobile app development and a host of other languages to build a working application.  
 
-## AI Apps
+## AI Apps: Latest launches and tools
 
-I'm fascinated by AI applications, so I review the most intriguing ones on my blog. Highlights include [Andrew Ng's Landing AI for object detection and document extraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/), DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/)), and Kolors' ([virtual try-on](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/)) (image below).
+I'm fascinated by AI applications and review the most intriguing ones on my blog. Highlights include 
+- [Andrew Ng's Landing AI for object detection and document extraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/)
+-  DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/))
+-  Kolors' ([virtual try-on](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/)) (example below).
 
 
   ![kolors_try_on-rdjarbeng_gif_cover](https://github.com/user-attachments/assets/35a45697-a634-43da-8c4b-00172e22dbdc)
   
 
-## Blog
-I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts) occasionally. In my latest post I examine [Google Pay/Wallet and Apple pay](https://rdjarbeng.com/what-is-google-pay-and-apple-pay-how-they-work-where-they-work-why-they-re-safer/) and how it integrates into a traditional bank system.
+## Blog - Emerging Tech and AI news
+I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts), sharing insights on emerging tech. 
+
+🚀 Latest Insight: [How Google turned 5 million news articles into a flash flood warning system](https://rdjarbeng.com/how-google-turned-5-million-news-articles-into-a-flash-flood-warning-system/), an analysis of sensor-less forecasting and its implications for data-driven engineering.
+
+Topics I Cover:
+🤖 AI & ML: Breaking down complex research (like Google’s flood forecasting) into actionable engineering insights.
+🌍 Environmental Tech: Air quality monitoring and IoT sensor networks.
+🚀 Tech in Africa: Personal experiences and technical infrastructure in Ghana and East Africa.
+
+### SveltiaCMS and open-source contribution
 I use [SveltiaCMS](https://github.com/sveltia/sveltia-cms) to manage posts and also [contribute](https://github.com/sveltia/sveltia-cms/issues?q=is%3Aissue%20state%3Aclosed%20author%3ARDjarbeng) to it's development.
 
-In my last post I shared my experience with Gemini and Nano Banana: [I Tried to Replace an Interior Designer with Gemini. Here's What Happened.](https://rdjarbeng.com/putting-google-s-gemini-pro-and-nano-banana-to-the-test/) – Testing Gemini Pro and Nano Banana for creative tasks.
-<p align="center">
-<img width="540" height="448" alt="gemini_room_design_cover" src="https://github.com/user-attachments/assets/66455fce-48b1-4664-a9e0-a88da2d84d08" />
-</p>
 
 ### Skills
 
@@ -54,12 +62,9 @@ In my last post I shared my experience with Gemini and Nano Banana: [I Tried to 
 - Others: PWAs, Performance Optimization, IoT (Raspberry Pi), Satellite Image Processing
 
 ## Contact
-Best way to contact me directly is via the [contact form on my website](https://rdjarbeng.com/about/#contact-form). Also available on email at rdjarbeng@rdjarbeng.com
+Best way to contact me directly is via the [contact form on my website]([https://rdjarbeng.com/about/#contact-form](https://rdjarbeng.com/contact/)). Alternatively via email at rdjarbeng@rdjarbeng.com (Please mention the Project in the title to avoid the mail going to spam)
   
 ## Current projects
-* I'm building this customizable [lyric video generato](https://videolyrics.netlify.app/)r for poems and songs. It's built with React and uses the browser text-to-speech API. It also uses commercial AI platforms such as OpenAI APIs & ElevenLabs.
-  <img width="1323" height="619" alt="image" src="https://github.com/user-attachments/assets/a1b817ff-d874-4157-82dd-5e92f3752eb0" />
-
 * I tested out utralytics YOLO world for object detection in videos using some footage I captured in Kigali. The project is available on [Kaggle](https://www.kaggle.com/code/rdjarbeng/yolo-world-promptable-video-object-detection)
 
   ![complete_sam_yolo_world_motorbike_video-ezgif com-optiwebp](https://github.com/user-attachments/assets/13066897-5aaf-401c-ab86-a379842ae470)
