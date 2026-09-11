@@ -26,7 +26,10 @@ I'm fascinated by AI applications and review the most intriguing ones on my blog
 ## Blog - Emerging Tech and AI news
 I am building my [personal website](https://rdjarbeng.com/) where I [blog](https://rdjarbeng.com/posts), sharing insights on emerging tech. 
 
-🚀 Latest Insight: [How Google turned 5 million news articles into a flash flood warning system](https://rdjarbeng.com/how-google-turned-5-million-news-articles-into-a-flash-flood-warning-system/), an analysis of sensor-less forecasting and its implications for data-driven engineering.
+🚀 Latest Insights:
+- [Building a Modern Blog with Eleventy 3.x (Liquid Edition)](https://rdjarbeng.com/building-a-modern-blog-with-eleventy-3-x-liquid-edition/), a hands-on guide to building a real blog with the Eleventy static site generator.
+- [How Carnegie Mellon Sent Missions to the Moon Without an Aerospace Department](https://rdjarbeng.com/how-carnegie-mellon-sent-missions-to-the-moon-without-an-aerospace-department/), a look inside CMU's planetary robotics work and how it powered real lunar missions without a traditional aerospace program.
+- [Coding the Mean, Median and Mode in Python - TensorTonic](https://rdjarbeng.com/finding-the-mean-median-and-mode-tensortonic/), a walkthrough of core statistics algorithms on TensorTonic, the "LeetCode of machine learning."
 
 Topics I Cover:
 🤖 AI & ML: Breaking down complex research (like Google’s flood forecasting) into actionable engineering insights.
