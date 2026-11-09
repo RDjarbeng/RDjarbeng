@@ -16,7 +16,7 @@ I use Python, JavaScript, C++, Dart for Flutter mobile app development and a hos
 
 I'm fascinated by AI applications and review the most intriguing ones on my blog. Highlights include 
 - [Andrew Ng's Landing AI for object detection and document extraction](https://rdjarbeng.com/agentic-object-detection-and-document-extraction-with-landing.ai/)
--  DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story-ai-generated-video-adapting/))
+-  DiD's ([text-to-video models ](https://rdjarbeng.com/the-danger-of-a-single-story--ai-generated-video-adapting/))
 -  Kolors' ([virtual try-on](https://rdjarbeng.com/kolors-virtual-try-on-nobody-s-gonna-know/)) (example below).
 
 
